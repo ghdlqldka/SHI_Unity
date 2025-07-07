@@ -28,3 +28,5 @@
 *.obj filter=lfs diff=lfs merge=lfs -text
 *.bin filter=lfs diff=lfs merge=lfs -text
 *.svn-base filter=lfs diff=lfs merge=lfs -text
+*.data filter=lfs diff=lfs merge=lfs -text
+*.mesh filter=lfs diff=lfs merge=lfs -text
