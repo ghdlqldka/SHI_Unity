@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: be55c51b832e69249ade568849ad14f8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93478
+  packageName: crossSection
+  packageVersion: 2.24
+  assetPath: Assets/WorldSpaceTransitions/crossSection (Built In)/templateScenes/crossSection_single_plane.scenetemplate
+  uploadId: 674954

@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: ef8cf66a1872fd540b9369ebff993952
+timeCreated: 1513006365
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 106482
+  packageName: IK Constructor
+  packageVersion: 1.0
+  assetPath: Assets/IKConstructor/Examples/Scripts/TwoAxisRobotAnimator.cs
+  uploadId: 218241

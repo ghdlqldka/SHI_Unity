@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 60fb6210cd0f8b94e951b147d27d1c9c
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/PointCloudViewerDX11/Scripts/BrekelPlayer.cs
+  uploadId: 755443

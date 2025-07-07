@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 753aad5abc941af4aacbd59f745fce39
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/StreamingAssets/PointCloudViewerSampleData/tilesample/sample3217.pct
+  uploadId: 755443

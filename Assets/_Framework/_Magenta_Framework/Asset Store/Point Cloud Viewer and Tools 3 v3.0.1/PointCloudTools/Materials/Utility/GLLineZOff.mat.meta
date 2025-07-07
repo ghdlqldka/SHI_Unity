@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0a0f4b3822413874fa5cadc81f8270f3
+timeCreated: 1476881502
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/Materials/Utility/GLLineZOff.mat
+  uploadId: 755443

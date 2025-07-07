@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 28eb3f714c25f344ab00c65a544aa6e8
+timeCreated: 1516631526
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 125537
+  packageName: Runtime Transform Gizmos
+  packageVersion: 2.0.2
+  assetPath: Assets/Runtime Transform Gizmos/Scripts/Gizmos/Sliders/3D Plane Slider/GizmoPlaneSlider3DSettings.cs
+  uploadId: 733781

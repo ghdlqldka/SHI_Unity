@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2572f16397ea1684781066537888ed89
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/Materials/DX11/PointCloud_DX11_ColorSizeV2 (Height
+    Gradient).mat
+  uploadId: 755443

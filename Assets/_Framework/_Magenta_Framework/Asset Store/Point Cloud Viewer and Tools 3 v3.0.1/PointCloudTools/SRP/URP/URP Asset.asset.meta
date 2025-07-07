@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 17fbf2879f2bf204bbbdf3eb1ac7fa8f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/SRP/URP/URP Asset.asset
+  uploadId: 755443

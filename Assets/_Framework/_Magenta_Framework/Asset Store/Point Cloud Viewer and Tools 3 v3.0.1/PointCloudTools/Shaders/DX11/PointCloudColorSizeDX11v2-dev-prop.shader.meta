@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d3eaee39a39a36940805e884f0f7c09d
+timeCreated: 1494399736
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/Shaders/DX11/PointCloudColorSizeDX11v2-dev-prop.shader
+  uploadId: 755443

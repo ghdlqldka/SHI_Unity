@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: f0a39a8d04cf0f149bcce7c49e01e7cd
+timeCreated: 1513266173
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 125537
+  packageName: Runtime Transform Gizmos
+  packageVersion: 2.0.2
+  assetPath: Assets/Runtime Transform Gizmos/Scripts/Gizmos/Scene Gizmo/Scene Gizmo
+    Handles/SceneGizmoCap.cs
+  uploadId: 733781

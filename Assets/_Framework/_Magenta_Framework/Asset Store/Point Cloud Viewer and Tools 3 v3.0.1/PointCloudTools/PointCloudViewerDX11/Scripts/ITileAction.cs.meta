@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b76c6c8395daf3e459e19b4f25ed3d42
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/PointCloudViewerDX11/Scripts/ITileAction.cs
+  uploadId: 755443

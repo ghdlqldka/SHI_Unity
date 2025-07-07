@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a82012df9784d6549af4ae2071d99bbb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270994
+  packageName: Line Renderer 3D Tool
+  packageVersion: 1.0.0
+  assetPath: Assets/Art Storm/3DLineRenderer/Scripts/Runtime/LineRenderer3D.cs
+  uploadId: 634696

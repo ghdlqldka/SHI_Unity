@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 2003b8452a4748d4c830974d3087aeba
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/PointCloudViewerDX11/Scripts/External/GenericPriorityQueue.cs
+  uploadId: 755443

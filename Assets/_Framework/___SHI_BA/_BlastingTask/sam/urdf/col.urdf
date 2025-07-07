@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<robot name="sam">
+   
+    <!-- BASE -->
+    <link name="base">
+    </link>
+
+    <!-- BODY LINK --> 
+    <joint name="col_joint" type="fixed">
+        <origin rpy="0 0 0" xyz="0 0 0"/>
+        <parent link="base"/>
+        <child link="col"/>
+    </joint>
+
+    <link name="col">
+      <visual>
+        <geometry>
+          <mesh filename="/home/mgt/env_genesis/env_gene/lib/python3.10/site-packages/genesis/assets/urdf/sam/meshes/visual/col.dae" />
+        </geometry>
+      </visual>
+      <collision>
+        <geometry>
+          <mesh filename="/home/mgt/env_genesis/env_gene/lib/python3.10/site-packages/genesis/assets/urdf/sam/meshes/collision/col.stl" />
+        </geometry>
+      </collision>
+      <inertial>
+        <origin rpy="0 0 0" xyz="0 0 0"/>
+        <mass value="10"/>
+        <inertia ixx="0.002706437" ixy="0.000011205" ixz="-0.000008016" iyy="0.002153592" iyz="0.000141528" izz="0.002712272"/>
+      </inertial>
+    </link>
+
+</robot>

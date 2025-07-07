@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 8d9172c914a9dd04fa84939ab3d253e6
+timeCreated: 1506936051
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/Demos/PointCloudViewer/Scripts/YourOwnDataExample.cs
+  uploadId: 755443

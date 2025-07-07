@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 24962dde9f1de1c4a8ed85ab7c1b6076
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 2506
+  packageName: Simple Waypoint System
+  packageVersion: 5.5.3
+  assetPath: Assets/SimpleWaypointSystem/Examples/Assets/Animations/Walk.anim
+  uploadId: 709069

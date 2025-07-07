@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1c04206bffa31794a8bf4f8b22d758b3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93478
+  packageName: crossSection
+  packageVersion: 2.24
+  assetPath: Assets/WorldSpaceTransitions/crossSection (Built In)/scenes/single_plane
+    cappedSettings.lighting
+  uploadId: 674954

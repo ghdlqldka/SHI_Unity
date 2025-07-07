@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: fc8c7e0092c581942bfffa063236d91e
+timeCreated: 1533928687
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 125537
+  packageName: Runtime Transform Gizmos
+  packageVersion: 2.0.2
+  assetPath: Assets/Runtime Transform Gizmos/Scripting Tutorials/Tut_1_Enabling_and_Disabling_Gizmos.cs
+  uploadId: 733781

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 22dd74e243b1b444c8b42cbfeb78b78c
+timeCreated: 1513356007
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 125537
+  packageName: Runtime Transform Gizmos
+  packageVersion: 2.0.2
+  assetPath: Assets/Runtime Transform Gizmos/Scripts/Runtime Package Common/Camera/CameraPrjSwitchTransition.cs
+  uploadId: 733781

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: aff96577e999cbe48b3413e439f87b55
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93478
+  packageName: crossSection
+  packageVersion: 2.24
+  assetPath: Assets/WorldSpaceTransitions/crossSection (Built In)/scenes/pieSettings.lighting
+  uploadId: 674954

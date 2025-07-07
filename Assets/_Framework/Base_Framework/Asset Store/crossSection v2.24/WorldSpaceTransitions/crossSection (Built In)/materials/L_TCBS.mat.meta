@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a36eacaee1f1ee44194558e0716d388f
+timeCreated: 1452945627
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93478
+  packageName: crossSection
+  packageVersion: 2.24
+  assetPath: Assets/WorldSpaceTransitions/crossSection (Built In)/materials/L_TCBS.mat
+  uploadId: 674954

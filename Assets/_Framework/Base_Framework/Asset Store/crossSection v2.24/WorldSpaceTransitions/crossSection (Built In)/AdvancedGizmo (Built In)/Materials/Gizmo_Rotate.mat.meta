@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d2059ea6318407e44b3b5ee09c06a82e
+timeCreated: 1444212493
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93478
+  packageName: crossSection
+  packageVersion: 2.24
+  assetPath: Assets/WorldSpaceTransitions/crossSection (Built In)/AdvancedGizmo (Built
+    In)/Materials/Gizmo_Rotate.mat
+  uploadId: 674954

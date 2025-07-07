@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 8fed1fd587e665d4aa8ec8ef616bbc84
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93478
+  packageName: crossSection
+  packageVersion: 2.24
+  assetPath: Assets/WorldSpaceTransitions/crossSection/scripts/InstanceMaterials.cs
+  uploadId: 674954

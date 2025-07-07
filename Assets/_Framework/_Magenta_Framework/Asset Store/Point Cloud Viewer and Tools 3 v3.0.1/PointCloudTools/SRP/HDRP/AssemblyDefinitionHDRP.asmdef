@@ -1,0 +1,22 @@
+{
+    "name": "AssemblyDefinitionHDRP",
+    "rootNamespace": "",
+    "references": [
+        "GUID:a1408bb86b7e92f48961c90e0988d665"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.render-pipelines.high-definition",
+            "expression": "[10.0,256.0]",
+            "define": "HDRP_INSTALLED"
+        }
+    ],
+    "noEngineReferences": false
+}

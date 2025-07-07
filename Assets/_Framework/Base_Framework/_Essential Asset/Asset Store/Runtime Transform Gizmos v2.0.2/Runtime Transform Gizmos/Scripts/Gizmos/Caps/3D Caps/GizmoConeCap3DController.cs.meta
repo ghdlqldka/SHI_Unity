@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: fd6132795c3e49849b0bc8cfa2153271
+timeCreated: 1516139331
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 125537
+  packageName: Runtime Transform Gizmos
+  packageVersion: 2.0.2
+  assetPath: Assets/Runtime Transform Gizmos/Scripts/Gizmos/Caps/3D Caps/GizmoConeCap3DController.cs
+  uploadId: 733781

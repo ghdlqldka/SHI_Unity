@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: d828c83e7d120104fae6a831a93c184a
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/Shaders/Mesh/PointCloudMeshSingleColor.shader
+  uploadId: 755443

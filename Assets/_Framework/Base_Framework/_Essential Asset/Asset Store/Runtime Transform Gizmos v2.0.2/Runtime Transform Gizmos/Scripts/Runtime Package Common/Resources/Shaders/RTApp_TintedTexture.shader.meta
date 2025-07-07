@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 08f402a54f6c98d4fafb51375142e133
+timeCreated: 1486640819
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 125537
+  packageName: Runtime Transform Gizmos
+  packageVersion: 2.0.2
+  assetPath: Assets/Runtime Transform Gizmos/Scripts/Runtime Package Common/Resources/Shaders/RTApp_TintedTexture.shader
+  uploadId: 733781

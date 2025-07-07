@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 68a60ff607a9e154db4798a1107849dd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93478
+  packageName: crossSection
+  packageVersion: 2.24
+  assetPath: Assets/WorldSpaceTransitions/crossSection/scripts/PrimitiveSolidSectionExample.cs
+  uploadId: 674954

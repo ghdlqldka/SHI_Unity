@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 77bc68d1c887f9249a84c9ee46896be3
+timeCreated: 1459593950
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/Shaders/Mesh/MeshPointsDX11Box(Shadows).shader
+  uploadId: 755443

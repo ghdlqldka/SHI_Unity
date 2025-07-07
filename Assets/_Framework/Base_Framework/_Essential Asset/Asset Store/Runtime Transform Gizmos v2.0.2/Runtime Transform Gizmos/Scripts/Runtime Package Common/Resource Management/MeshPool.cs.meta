@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 408b7fbf396eb1747b0b79c5662d0d2b
+timeCreated: 1485867519
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 125537
+  packageName: Runtime Transform Gizmos
+  packageVersion: 2.0.2
+  assetPath: Assets/Runtime Transform Gizmos/Scripts/Runtime Package Common/Resource
+    Management/MeshPool.cs
+  uploadId: 733781

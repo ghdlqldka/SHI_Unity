@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0733e2b16ba3e7047af0397a9878e181
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 125537
+  packageName: Runtime Transform Gizmos
+  packageVersion: 2.0.2
+  assetPath: Assets/Runtime Transform Gizmos/Demo Scenes/White.mat
+  uploadId: 733781

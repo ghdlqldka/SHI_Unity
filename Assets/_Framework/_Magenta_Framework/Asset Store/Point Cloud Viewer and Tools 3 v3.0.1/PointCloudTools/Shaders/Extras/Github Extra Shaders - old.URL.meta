@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ae1380e8242324044a09103482e905b4
+timeCreated: 1507985734
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/Shaders/Extras/Github Extra Shaders - old.URL
+  uploadId: 755443

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: ae1abd2c7f35362458d89b9fd3010b35
+timeCreated: 1498052549
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 125537
+  packageName: Runtime Transform Gizmos
+  packageVersion: 2.0.2
+  assetPath: Assets/Runtime Transform Gizmos/Scripts/Runtime Package Common/Math/AxisDescriptor.cs
+  uploadId: 733781

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b0ecd10c6992d9d4086b8fe4b1fca7f9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270994
+  packageName: Line Renderer 3D Tool
+  packageVersion: 1.0.0
+  assetPath: Assets/Art Storm/3DLineRenderer/Materials/LineUnlitTintTexture.mat
+  uploadId: 634696

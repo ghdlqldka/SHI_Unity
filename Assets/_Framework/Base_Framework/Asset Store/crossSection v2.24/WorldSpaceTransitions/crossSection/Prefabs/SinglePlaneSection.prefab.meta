@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6f0a612fcc05f724faf24cfce3f2c3d7
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93478
+  packageName: crossSection
+  packageVersion: 2.24
+  assetPath: Assets/WorldSpaceTransitions/crossSection/Prefabs/SinglePlaneSection.prefab
+  uploadId: 674954

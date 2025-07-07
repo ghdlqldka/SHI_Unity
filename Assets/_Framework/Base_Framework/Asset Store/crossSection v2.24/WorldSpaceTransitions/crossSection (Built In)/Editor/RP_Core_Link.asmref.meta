@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 32998412d7aee7247bec418575e4bdf6
+AssemblyDefinitionReferenceImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93478
+  packageName: crossSection
+  packageVersion: 2.24
+  assetPath: Assets/WorldSpaceTransitions/crossSection (Built In)/Editor/RP_Core_Link.asmref
+  uploadId: 674954

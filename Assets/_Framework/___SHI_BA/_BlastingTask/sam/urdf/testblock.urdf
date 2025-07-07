@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<robot name="test_block">
+   
+    <!-- BASE -->
+    <link name="base">
+    </link>
+
+    <!-- BODY LINK --> 
+    <joint name="block_joint" type="fixed">
+        <origin rpy="0 0 0" xyz="0 0 0"/>
+        <parent link="base"/>
+        <child link="block"/>
+    </joint>
+
+    <link name="block">
+      <visual>
+        <geometry>
+          <mesh filename="../meshes/visual/testblock.dae" />
+        </geometry>
+      </visual>
+      <collision>
+        <geometry>
+          <mesh filename="../meshes/collision/block.stl" />
+        </geometry>
+      </collision>
+      <inertial>
+        <origin rpy="0 0 0" xyz="0 0 0"/>
+        <mass value="10"/>
+        <inertia ixx="0.002706437" ixy="0.000011205" ixz="-0.000008016" iyy="0.002153592" iyz="0.000141528" izz="0.002712272"/>
+      </inertial>
+    </link>
+
+</robot>

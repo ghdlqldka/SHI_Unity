@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b49f5c23b77675f4998f02c3fe537fc9
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93478
+  packageName: crossSection
+  packageVersion: 2.24
+  assetPath: Assets/WorldSpaceTransitions/crossSection/Apache Licence.txt
+  uploadId: 674954

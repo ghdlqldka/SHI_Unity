@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: ecaa5a3cbe825b841a8a0a2a50478c51
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93478
+  packageName: crossSection
+  packageVersion: 2.24
+  assetPath: Assets/WorldSpaceTransitions/crossSection/scripts/CappedSphereSectionExample.cs
+  uploadId: 674954

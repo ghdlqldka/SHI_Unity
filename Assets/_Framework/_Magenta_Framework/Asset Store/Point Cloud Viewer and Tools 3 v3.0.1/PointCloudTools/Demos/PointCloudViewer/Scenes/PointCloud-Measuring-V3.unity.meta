@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 82877974a74ab7745bc9acbf35a80a25
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/Demos/PointCloudViewer/Scenes/PointCloud-Measuring-V3.unity
+  uploadId: 755443

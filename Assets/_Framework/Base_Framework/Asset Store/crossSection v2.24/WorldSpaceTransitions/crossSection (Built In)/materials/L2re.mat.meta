@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6e0f6fb1252055444a567bd134aacefb
+timeCreated: 1452603443
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93478
+  packageName: crossSection
+  packageVersion: 2.24
+  assetPath: Assets/WorldSpaceTransitions/crossSection (Built In)/materials/L2re.mat
+  uploadId: 674954

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e7354340761e9cf4ca9a7ca97f79ae42
+timeCreated: 1459594414
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/Shaders/Mesh/MeshPointsDX11TriBillOffset-CustomRGBData.shader
+  uploadId: 755443

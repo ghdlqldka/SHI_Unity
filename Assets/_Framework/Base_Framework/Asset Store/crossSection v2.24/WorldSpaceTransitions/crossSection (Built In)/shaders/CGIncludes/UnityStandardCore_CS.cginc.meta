@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ed62f14a60f1a5248a802ee70bb3eba1
+timeCreated: 1485120619
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93478
+  packageName: crossSection
+  packageVersion: 2.24
+  assetPath: Assets/WorldSpaceTransitions/crossSection (Built In)/shaders/CGIncludes/UnityStandardCore_CS.cginc
+  uploadId: 674954

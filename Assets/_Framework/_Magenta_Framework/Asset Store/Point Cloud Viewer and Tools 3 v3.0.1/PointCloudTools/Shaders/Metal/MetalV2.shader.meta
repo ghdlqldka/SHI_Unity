@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 98e169a2311beb047b9bc13fccca2f75
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/Shaders/Metal/MetalV2.shader
+  uploadId: 755443

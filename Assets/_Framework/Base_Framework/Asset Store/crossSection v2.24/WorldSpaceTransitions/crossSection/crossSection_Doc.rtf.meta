@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 660f83c534cf49b4b9acc753676acba5
+timeCreated: 1497904112
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93478
+  packageName: crossSection
+  packageVersion: 2.24
+  assetPath: Assets/WorldSpaceTransitions/crossSection/crossSection_Doc.rtf
+  uploadId: 674954

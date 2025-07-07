@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a4b7afdd0a1920b48a585f653fb032ad
+timeCreated: 1434667180
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/Shaders/Mesh/Extras/vertexcolorsPseudoLight.shader
+  uploadId: 755443

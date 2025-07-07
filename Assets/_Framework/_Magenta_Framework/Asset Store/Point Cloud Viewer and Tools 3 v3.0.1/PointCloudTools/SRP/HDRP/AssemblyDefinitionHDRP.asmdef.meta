@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5c53d5f209e06a841a5be4a91923e35d
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/SRP/HDRP/AssemblyDefinitionHDRP.asmdef
+  uploadId: 755443

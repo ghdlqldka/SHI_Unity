@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0038228b3c8ef1244b4846b302799462
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270994
+  packageName: Line Renderer 3D Tool
+  packageVersion: 1.0.0
+  assetPath: Assets/Art Storm/Helpers/Scripts/Runtime/EA.Helpers.Runtime.asmdef
+  uploadId: 634696

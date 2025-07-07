@@ -1,0 +1,18 @@
+{
+    "name": "PointCloudEditorAssembly",
+    "rootNamespace": "",
+    "references": [
+        "GUID:a1408bb86b7e92f48961c90e0988d665"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

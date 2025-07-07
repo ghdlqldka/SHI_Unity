@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 73669826fd3450940b1a6e89b02e04a6
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/Materials/DX11/PointCloudColorAlphaDX11-Offset.mat
+  uploadId: 755443

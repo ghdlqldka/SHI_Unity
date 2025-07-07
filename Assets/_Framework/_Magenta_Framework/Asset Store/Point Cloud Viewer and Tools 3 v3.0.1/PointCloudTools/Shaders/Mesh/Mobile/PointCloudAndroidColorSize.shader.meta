@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0bffcc5513c82fb4e8a7216e398ff98e
+timeCreated: 1467201595
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/Shaders/Mesh/Mobile/PointCloudAndroidColorSize.shader
+  uploadId: 755443

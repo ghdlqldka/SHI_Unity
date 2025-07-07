@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7d98cc9525bc92e40914ef48948fdcf8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107085
+  packageName: ROS#
+  packageVersion: 2.1.1
+  assetPath: Assets/ROS# Project Team/ROS#/Runtime/RosBridgeClient/MessageHandling/JoyAxisReader.cs
+  uploadId: 761549

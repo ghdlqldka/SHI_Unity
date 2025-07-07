@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f320e7bfa31c29741a4765393a096bfb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93478
+  packageName: crossSection
+  packageVersion: 2.24
+  assetPath: Assets/WorldSpaceTransitions/crossSection/capped_setups/CappedSectionFollowIndividual.cs
+  uploadId: 674954

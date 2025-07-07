@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e4bf4129462a7b44fb3de3a38f62936e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93478
+  packageName: crossSection
+  packageVersion: 2.24
+  assetPath: Assets/WorldSpaceTransitions/crossSection (Built In)/scenes/Intersection/intersectedHatch_2.mat
+  uploadId: 674954

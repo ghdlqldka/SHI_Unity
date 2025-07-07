@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fb95aba60250a604aa6c974cea354920
+timeCreated: 1468096983
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93478
+  packageName: crossSection
+  packageVersion: 2.24
+  assetPath: Assets/WorldSpaceTransitions/crossSection (Built In)/scenes/Intersection/box&intersection.unity
+  uploadId: 674954

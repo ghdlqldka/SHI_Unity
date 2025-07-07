@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9d3f062a6e8451947b906fc1d0d14e8f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 125537
+  packageName: Runtime Transform Gizmos
+  packageVersion: 2.0.2
+  assetPath: Assets/Runtime Transform Gizmos/Demo Scenes/New Terrain.asset
+  uploadId: 733781

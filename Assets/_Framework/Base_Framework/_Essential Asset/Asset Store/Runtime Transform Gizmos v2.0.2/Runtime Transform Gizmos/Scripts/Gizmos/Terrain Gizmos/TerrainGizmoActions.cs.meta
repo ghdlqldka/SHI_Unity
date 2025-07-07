@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 61d3fffbadaa84a49960fce5aa91323e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 125537
+  packageName: Runtime Transform Gizmos
+  packageVersion: 2.0.2
+  assetPath: Assets/Runtime Transform Gizmos/Scripts/Gizmos/Terrain Gizmos/TerrainGizmoActions.cs
+  uploadId: 733781

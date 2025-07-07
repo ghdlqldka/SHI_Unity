@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0298c8dd7a61ea44fa10bf8fc8b34a8b
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93478
+  packageName: crossSection
+  packageVersion: 2.24
+  assetPath: Assets/WorldSpaceTransitions/crossSection/crossSectionVersion.txt
+  uploadId: 674954

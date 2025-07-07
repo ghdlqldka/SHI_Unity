@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 64fc38edc1c76b2458248685584b16ba
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93478
+  packageName: crossSection
+  packageVersion: 2.24
+  assetPath: Assets/WorldSpaceTransitions/crossSection (Built In)/scenes/Intersection/intersected_geometry3Settings.lighting
+  uploadId: 674954

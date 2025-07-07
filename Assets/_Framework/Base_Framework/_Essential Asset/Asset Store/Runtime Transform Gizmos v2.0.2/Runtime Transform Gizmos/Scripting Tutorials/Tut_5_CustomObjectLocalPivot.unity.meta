@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 292f29c32234efc468a86c374c46d2bb
+timeCreated: 1533991480
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 125537
+  packageName: Runtime Transform Gizmos
+  packageVersion: 2.0.2
+  assetPath: Assets/Runtime Transform Gizmos/Scripting Tutorials/Tut_5_CustomObjectLocalPivot.unity
+  uploadId: 733781

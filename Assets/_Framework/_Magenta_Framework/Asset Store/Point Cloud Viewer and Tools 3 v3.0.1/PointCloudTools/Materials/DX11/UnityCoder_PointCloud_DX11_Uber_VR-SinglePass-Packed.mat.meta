@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 15ae1d13d6c200f408777e902e4013a0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/Materials/DX11/UnityCoder_PointCloud_DX11_Uber_VR-SinglePass-Packed.mat
+  uploadId: 755443

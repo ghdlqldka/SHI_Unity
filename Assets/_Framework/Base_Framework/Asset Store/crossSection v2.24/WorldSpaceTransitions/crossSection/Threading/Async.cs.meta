@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: f62ec8b5c1b32074c9561604c61cf0bf
+timeCreated: 1489831499
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93478
+  packageName: crossSection
+  packageVersion: 2.24
+  assetPath: Assets/WorldSpaceTransitions/crossSection/Threading/Async.cs
+  uploadId: 674954

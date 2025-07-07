@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 03f3982db16f17e4b92dd2cfd31b17ee
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93478
+  packageName: crossSection
+  packageVersion: 2.24
+  assetPath: Assets/WorldSpaceTransitions/crossSection (Built In)/shaders/BumpedSpecular.shader
+  uploadId: 674954

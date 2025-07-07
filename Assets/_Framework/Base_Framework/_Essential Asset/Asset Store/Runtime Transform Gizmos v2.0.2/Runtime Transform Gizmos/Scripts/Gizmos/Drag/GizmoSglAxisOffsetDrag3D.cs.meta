@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 858e344511462944bb4cc741a6bd0214
+timeCreated: 1511352200
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 125537
+  packageName: Runtime Transform Gizmos
+  packageVersion: 2.0.2
+  assetPath: Assets/Runtime Transform Gizmos/Scripts/Gizmos/Drag/GizmoSglAxisOffsetDrag3D.cs
+  uploadId: 733781

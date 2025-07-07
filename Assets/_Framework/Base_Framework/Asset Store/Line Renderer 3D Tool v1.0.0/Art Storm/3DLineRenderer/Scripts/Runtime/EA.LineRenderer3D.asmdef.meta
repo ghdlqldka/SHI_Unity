@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f07c0cbcfb337c24c90885dadf00811e
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270994
+  packageName: Line Renderer 3D Tool
+  packageVersion: 1.0.0
+  assetPath: Assets/Art Storm/3DLineRenderer/Scripts/Runtime/EA.LineRenderer3D.asmdef
+  uploadId: 634696

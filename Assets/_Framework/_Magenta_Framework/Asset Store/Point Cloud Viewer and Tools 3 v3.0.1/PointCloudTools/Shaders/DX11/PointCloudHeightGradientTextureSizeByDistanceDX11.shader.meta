@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 089f12690f7d1884789bf63705224cbb
+timeCreated: 1494578134
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/Shaders/DX11/PointCloudHeightGradientTextureSizeByDistanceDX11.shader
+  uploadId: 755443

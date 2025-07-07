@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e8434113eab0fba4b881b12d7278d83f
+timeCreated: 1494399736
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/Shaders/DX11/PointCloud-DX11-UberVR-SinglePass-HDRP.shader
+  uploadId: 755443

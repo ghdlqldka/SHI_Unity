@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a8a460a63d60d594496e6b054a2e6301
+timeCreated: 1486481254
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93478
+  packageName: crossSection
+  packageVersion: 2.24
+  assetPath: Assets/WorldSpaceTransitions/crossSection (Built In)/capped_setups/section_boxDS.mat
+  uploadId: 674954

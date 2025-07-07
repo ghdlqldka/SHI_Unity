@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1e7a7487243e67b4197ff44589655e69
+timeCreated: 1497417690
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35666
+  packageName: Lean Pool
+  packageVersion: 2.1.0
+  assetPath: Assets/Plugins/CW/Shared/Common/Examples/Shaders/RimOpaque.shader
+  uploadId: 653650

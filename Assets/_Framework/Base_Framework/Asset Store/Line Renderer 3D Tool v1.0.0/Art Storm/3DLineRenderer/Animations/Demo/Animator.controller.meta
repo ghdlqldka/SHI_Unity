@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0408466f7409fb340a4afbe8a368b8ab
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270994
+  packageName: Line Renderer 3D Tool
+  packageVersion: 1.0.0
+  assetPath: Assets/Art Storm/3DLineRenderer/Animations/Demo/Animator.controller
+  uploadId: 634696

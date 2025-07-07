@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 49720114cebfe98469aad7d1c714f67d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 125537
+  packageName: Runtime Transform Gizmos
+  packageVersion: 2.0.2
+  assetPath: Assets/Runtime Transform Gizmos/Scripts/Gizmos/Light Gizmos/DirectionalLightGizmo3D.cs
+  uploadId: 733781

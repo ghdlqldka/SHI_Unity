@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a045655b7a00ed74a9fdbb2a97e29f31
+timeCreated: 1448828529
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/Shaders/MeshPointsDX11Quad.shader
+  uploadId: 755443

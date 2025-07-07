@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c9bcbe4a134290f4aa4e0291479b3f09
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/Editor/HDRP/MaterialConverterWindowHDRP.cs
+  uploadId: 755443

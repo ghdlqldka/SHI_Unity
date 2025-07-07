@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: e20ac29627535334b9f676e09667dbbd
+timeCreated: 1515157514
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 25800000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93478
+  packageName: crossSection
+  packageVersion: 2.24
+  assetPath: Assets/WorldSpaceTransitions/crossSection (Built In)/scenes/cuboid_capped/LightingData.asset
+  uploadId: 674954

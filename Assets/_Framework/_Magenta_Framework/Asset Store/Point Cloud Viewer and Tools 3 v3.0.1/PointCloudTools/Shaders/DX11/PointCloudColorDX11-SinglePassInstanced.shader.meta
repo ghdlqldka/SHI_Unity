@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 669fc334035e11e42a2eddfdf9d86753
+timeCreated: 1494603582
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/Shaders/DX11/PointCloudColorDX11-SinglePassInstanced.shader
+  uploadId: 755443

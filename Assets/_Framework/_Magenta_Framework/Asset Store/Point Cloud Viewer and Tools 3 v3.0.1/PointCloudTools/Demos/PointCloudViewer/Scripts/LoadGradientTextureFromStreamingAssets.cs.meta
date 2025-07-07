@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 14ad2e1f6629fab4f85ab27ee84e7858
+timeCreated: 1526791145
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/Demos/PointCloudViewer/Scripts/LoadGradientTextureFromStreamingAssets.cs
+  uploadId: 755443

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: c1cf99e9f394d364d8ff586032035d17
+timeCreated: 1485088880
+licenseType: Store
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93478
+  packageName: crossSection
+  packageVersion: 2.24
+  assetPath: Assets/WorldSpaceTransitions/crossSection (Built In)/shaders/StandardSpecular.shader
+  uploadId: 674954

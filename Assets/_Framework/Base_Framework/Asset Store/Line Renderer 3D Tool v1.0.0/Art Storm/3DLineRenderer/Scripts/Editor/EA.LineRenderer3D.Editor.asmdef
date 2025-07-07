@@ -1,0 +1,19 @@
+{
+    "name": "EA.LineRenderer3D.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:f07c0cbcfb337c24c90885dadf00811e",
+        "GUID:fed43645dc84da141aa9921bc1cadf2d"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

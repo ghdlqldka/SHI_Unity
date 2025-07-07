@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 3200ed1cbbf587c4d9af5bcce73208f9
+timeCreated: 1524510963
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 125537
+  packageName: Runtime Transform Gizmos
+  packageVersion: 2.0.2
+  assetPath: Assets/Runtime Transform Gizmos/Scripts/Runtime Package Common/Scene/RTScene.cs
+  uploadId: 733781

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0e21085a01ea9c2498ebed25240b2209
+timeCreated: 1474763809
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35666
+  packageName: Lean Pool
+  packageVersion: 2.1.0
+  assetPath: Assets/Plugins/CW/Shared/Common/Examples/Shaders/Skybox.shader
+  uploadId: 653650

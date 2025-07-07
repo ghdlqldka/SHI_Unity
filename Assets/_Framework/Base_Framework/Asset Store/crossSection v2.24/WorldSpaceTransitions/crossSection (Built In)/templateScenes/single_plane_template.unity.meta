@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 128c18dc8d064a6478ddd254268a71bb
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93478
+  packageName: crossSection
+  packageVersion: 2.24
+  assetPath: Assets/WorldSpaceTransitions/crossSection (Built In)/templateScenes/single_plane_template.unity
+  uploadId: 674954

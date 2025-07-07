@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8024d5a015ad25a48a9a9702186e0d88
+timeCreated: 1452944766
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93478
+  packageName: crossSection
+  packageVersion: 2.24
+  assetPath: Assets/WorldSpaceTransitions/crossSection (Built In)/matsCrossSect/crS_RS.mat
+  uploadId: 674954

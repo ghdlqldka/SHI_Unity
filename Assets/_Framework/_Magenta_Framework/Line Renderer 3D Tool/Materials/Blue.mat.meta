@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: defe80d0c815f8842b70aa414e76ec65
+timeCreated: 1480727763
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 67819
+  packageName: Bio IK
+  packageVersion: 2.0d
+  assetPath: Assets/BioIK/Demo/Materials/Blue.mat
+  uploadId: 199125

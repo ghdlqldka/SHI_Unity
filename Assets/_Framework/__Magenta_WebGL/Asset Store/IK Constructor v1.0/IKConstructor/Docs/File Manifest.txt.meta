@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 62af658b74bdea447bac3de9719e6e9f
+timeCreated: 1513173793
+licenseType: Store
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 106482
+  packageName: IK Constructor
+  packageVersion: 1.0
+  assetPath: Assets/IKConstructor/Docs/File Manifest.txt
+  uploadId: 218241

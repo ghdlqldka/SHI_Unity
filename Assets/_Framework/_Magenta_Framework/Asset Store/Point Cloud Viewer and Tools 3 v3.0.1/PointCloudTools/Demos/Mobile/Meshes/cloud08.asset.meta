@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 77cc815f966d13246a771b92cbdac35a
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/Demos/Mobile/Meshes/cloud08.asset
+  uploadId: 755443

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cb35fb3bc35ab1e41b8417dd2d898024
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/Demos/PointCloudViewer/ExampleMaterials/SpawnCube-Example.mat
+  uploadId: 755443

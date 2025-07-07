@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 384f0e28010d8fe42b1e1147a18a328e
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93478
+  packageName: crossSection
+  packageVersion: 2.24
+  assetPath: Assets/WorldSpaceTransitions/crossSection (Built In)/shaders/HiddenCrossSectionNormals.shader
+  uploadId: 674954

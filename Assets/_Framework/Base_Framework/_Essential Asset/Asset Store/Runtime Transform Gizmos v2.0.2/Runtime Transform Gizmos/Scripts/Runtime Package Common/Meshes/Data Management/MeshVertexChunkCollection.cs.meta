@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 0dc2f5fd12ab0fe45a65f10af4c0ff89
+timeCreated: 1499688760
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 125537
+  packageName: Runtime Transform Gizmos
+  packageVersion: 2.0.2
+  assetPath: Assets/Runtime Transform Gizmos/Scripts/Runtime Package Common/Meshes/Data
+    Management/MeshVertexChunkCollection.cs
+  uploadId: 733781

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e8084eac3f1ad4e4ab82d5324d8a5229
+timeCreated: 1472283083
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99316
+  packageName: URDF Importer
+  packageVersion: 1.0
+  assetPath: Assets/URDFImporter/Demo/nao.urdf
+  uploadId: 198970

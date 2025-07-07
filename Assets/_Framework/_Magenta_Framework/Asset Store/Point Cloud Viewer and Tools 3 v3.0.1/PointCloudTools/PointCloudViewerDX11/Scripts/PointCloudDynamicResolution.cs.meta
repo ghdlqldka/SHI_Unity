@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 84456fce6571bc74c987461472452e3e
+timeCreated: 1521363598
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/PointCloudViewerDX11/Scripts/PointCloudDynamicResolution.cs
+  uploadId: 755443

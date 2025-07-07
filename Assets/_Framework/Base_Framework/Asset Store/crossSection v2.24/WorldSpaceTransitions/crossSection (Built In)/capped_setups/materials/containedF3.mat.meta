@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1a1ca40471705f845bb94f404ae3bf11
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93478
+  packageName: crossSection
+  packageVersion: 2.24
+  assetPath: Assets/WorldSpaceTransitions/crossSection (Built In)/capped_setups/materials/containedF3.mat
+  uploadId: 674954

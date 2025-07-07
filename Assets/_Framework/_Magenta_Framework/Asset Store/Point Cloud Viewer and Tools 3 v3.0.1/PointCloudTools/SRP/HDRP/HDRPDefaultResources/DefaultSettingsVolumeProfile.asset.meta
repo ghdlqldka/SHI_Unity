@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c26a66a48f1b3774493a1abb832b1b78
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/SRP/HDRP/HDRPDefaultResources/DefaultSettingsVolumeProfile.asset
+  uploadId: 755443

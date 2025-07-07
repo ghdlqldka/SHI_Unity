@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: fc34930bb49e7ac4a98e3843c21a284c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93478
+  packageName: crossSection
+  packageVersion: 2.24
+  assetPath: Assets/WorldSpaceTransitions/Editor/Configuration.cs
+  uploadId: 674954

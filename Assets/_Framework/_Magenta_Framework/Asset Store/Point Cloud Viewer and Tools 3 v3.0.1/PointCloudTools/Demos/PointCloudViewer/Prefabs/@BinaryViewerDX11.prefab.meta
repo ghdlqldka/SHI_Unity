@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d6463f2ee6362c54284dc231fddbde8d
+timeCreated: 1473255523
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/Demos/PointCloudViewer/Prefabs/@BinaryViewerDX11.prefab
+  uploadId: 755443

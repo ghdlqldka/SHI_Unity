@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 47ae50138d175e34c8d8e52fa8ee4763
+timeCreated: 1518614653
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 125537
+  packageName: Runtime Transform Gizmos
+  packageVersion: 2.0.2
+  assetPath: Assets/Runtime Transform Gizmos/Scripts/Gizmos/Transform Gizmos/Move
+    Gizmo/MoveGizmoLookAndFeel2D.cs
+  uploadId: 733781

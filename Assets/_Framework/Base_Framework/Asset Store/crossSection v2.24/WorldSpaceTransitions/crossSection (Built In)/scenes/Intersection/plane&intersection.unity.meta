@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cd55fd5a47d1ece44973a1e50a6ec399
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93478
+  packageName: crossSection
+  packageVersion: 2.24
+  assetPath: Assets/WorldSpaceTransitions/crossSection (Built In)/scenes/Intersection/plane&intersection.unity
+  uploadId: 674954

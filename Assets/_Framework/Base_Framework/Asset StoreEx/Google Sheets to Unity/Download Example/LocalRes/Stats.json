@@ -1,0 +1,58 @@
+[
+  {
+    "_Name": "Cat",
+    "Health": 333,
+    "Attack": 230,
+    "Defence": 230,
+    "Items": "A"
+  },
+  {
+    "_Name": "Dog",
+    "Health": 211,
+    "Attack": 211,
+    "Defence": 211,
+    "Items": "B"
+  },
+  {
+    "_Name": "Mouse",
+    "Health": 10,
+    "Attack": 10,
+    "Defence": 10,
+    "Items": "C"
+  },
+  {
+    "_Name": "Bear",
+    "Health": 150,
+    "Attack": 100,
+    "Defence": 50,
+    "Items": "D"
+  },
+  {
+    "_Name": "Fly",
+    "Health": 10,
+    "Attack": 20,
+    "Defence": 30,
+    "Items": "E"
+  },
+  {
+    "_Name": "Badger",
+    "Health": 150,
+    "Attack": 150,
+    "Defence": 150,
+    "Items": "F"
+  },
+  {
+    "_Name": "",
+    "Health": 0,
+    "Attack": 0,
+    "Defence": 0,
+    "Items": "G"
+  },
+  {
+    "_Name": "",
+    "Health": 0,
+    "Attack": 0,
+    "Defence": 0,
+    "Items": "H"
+  }
+]

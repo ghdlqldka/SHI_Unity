@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: b7be414ed6a30b24c939987647c32e12
+timeCreated: 1498507817
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 125537
+  packageName: Runtime Transform Gizmos
+  packageVersion: 2.0.2
+  assetPath: Assets/Runtime Transform Gizmos/Scripts/Runtime Package Common/Scene/Grid/SceneGridHotkeys.cs
+  uploadId: 733781

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c599baa5fd89a674e92a1f31ed9cec0c
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/SRP/URP/AssemblyDefinitionURP.asmdef
+  uploadId: 755443

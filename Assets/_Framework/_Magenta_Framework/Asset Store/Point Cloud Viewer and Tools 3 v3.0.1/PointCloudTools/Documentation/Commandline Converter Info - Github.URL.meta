@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 470416e00157f6841a9a394f535f6b16
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/Documentation/Commandline Converter Info - Github.URL
+  uploadId: 755443

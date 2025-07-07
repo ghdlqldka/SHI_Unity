@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: f8cebfb43824d614da32960cf3f633b6
+timeCreated: 1519739039
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 125537
+  packageName: Runtime Transform Gizmos
+  packageVersion: 2.0.2
+  assetPath: Assets/Runtime Transform Gizmos/Scripts/Gizmos/Sliders/Borders/3D Circle/GizmoCircle3DBorderController.cs
+  uploadId: 733781

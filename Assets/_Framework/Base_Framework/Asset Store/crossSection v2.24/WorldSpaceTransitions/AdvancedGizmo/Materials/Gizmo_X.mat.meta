@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2106305ac4323df4ca1ec5792b7f18e8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93478
+  packageName: crossSection
+  packageVersion: 2.24
+  assetPath: Assets/WorldSpaceTransitions/AdvancedGizmo/Materials/Gizmo_X.mat
+  uploadId: 674954

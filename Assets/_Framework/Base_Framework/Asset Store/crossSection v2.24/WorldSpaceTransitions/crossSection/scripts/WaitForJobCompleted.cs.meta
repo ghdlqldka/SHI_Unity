@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: cc6f2bceba2622a4a9680899ad5119a8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93478
+  packageName: crossSection
+  packageVersion: 2.24
+  assetPath: Assets/WorldSpaceTransitions/crossSection/scripts/WaitForJobCompleted.cs
+  uploadId: 674954

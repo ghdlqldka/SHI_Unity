@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 05cb45d099b82084d9c02e0ddbf37653
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/SRP/URP/Scripts/PointCloudCustomPassURP.cs
+  uploadId: 755443

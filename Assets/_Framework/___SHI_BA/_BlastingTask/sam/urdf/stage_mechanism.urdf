@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<robot name="stage_mechanism">
+   
+        <link name="base">
+    </link>
+
+     
+    <joint name="post_joint" type="fixed">
+        <origin rpy="0 0 0" xyz="0 0 0"/>
+        <parent link="base"/>
+        <child link="post"/>
+    </joint>
+    <link name="post">
+      <visual>
+        <geometry>
+          <mesh filename="../meshes/visual/post.dae" />
+        </geometry>
+        <material name="blue">
+          <color rgba="0.0 0.0 1.0 1.0"/>
+      </material>
+      </visual>
+      <collision><geometry><mesh filename="../meshes/collision/post.stl" /></geometry></collision>
+      <inertial><origin rpy="0 0 0" xyz="0 0 0"/><mass value="10"/><inertia ixx="0.002706437" ixy="0.000011205" ixz="-0.000008016" iyy="0.002153592" iyz="0.000141528" izz="0.002712272"/></inertial>
+    </link>
+
+    <joint name="slider_joint_x" type="fixed">
+        <parent link="post"/>
+        <child link="x_axis"/>
+        <origin xyz="0.278733 0.23721 1.0416" rpy="0 0 0"/>
+        <axis xyz="1 0 0"/>
+        <limit lower="0.0" upper="2.2" effort="100" velocity="1.0"/>
+    </joint>
+    <link name="x_axis">
+      <visual><geometry><mesh filename="../meshes/visual/x_axis.dae" /></geometry></visual>
+      <collision><geometry><mesh filename="../meshes/collision/x_axis.stl" /></geometry></collision>
+      <inertial><origin rpy="0 0 0" xyz="0 0 0"/><mass value="1.061"/><inertia ixx="0.002706437" ixy="0.000011205" ixz="-0.000008016" iyy="0.002153592" iyz="0.000141528" izz="0.002712272"/></inertial>
+    </link>
+
+    <joint name="slider_joint_y" type="fixed">
+        <parent link="x_axis"/>
+        <child link="y_axis"/>
+        <origin xyz="-0.1282 0.195146 0.4065" rpy="0 0 0"/>
+        <axis xyz="0 1 0"/>
+        <limit lower="0.0" upper="2.22" effort="100" velocity="1.0"/>
+    </joint>
+    <link name="y_axis">
+      <visual><geometry><mesh filename="../meshes/visual/y_axis.dae" /></geometry></visual>
+      <collision><geometry><mesh filename="../meshes/collision/y_axis.stl" /></geometry></collision>
+      <inertial><origin rpy="0 0 0" xyz="0 0 0"/><mass value="1.061"/><inertia ixx="0.002706437" ixy="0.000011205" ixz="-0.000008016" iyy="0.002153592" iyz="0.000141528" izz="0.002712272"/></inertial>
+    </link>
+
+    <joint name="slider_joint_z2" type="fixed">
+        <parent link="y_axis"/>
+        <child link="z_axis2"/>
+        <origin xyz="0.05516 0 -0.54915" rpy="0 0 0"/>
+        <axis xyz="0 0 1"/>
+        <limit lower="0.0" upper="0.3050" effort="100" velocity="1.0"/>
+    </joint>
+    <link name="z_axis2">
+      <visual><geometry><mesh filename="../meshes/visual/z_axis2.dae" /></geometry></visual>
+      <collision><geometry><mesh filename="../meshes/collision/z_axis2.stl" /></geometry></collision>
+      <inertial><origin rpy="0 0 0" xyz="0 0 0"/><mass value="0.5"/><inertia ixx="0.002706437" ixy="0.000011205" ixz="-0.000008016" iyy="0.002153592" iyz="0.000141528" izz="0.002712272"/></inertial>
+    </link>
+
+    <joint name="slider_joint_z3" type="fixed">
+        <parent link="z_axis2"/>
+        <child link="z_axis3"/>
+        <origin xyz="-0.00996 0 -0.101055" rpy="0 0 0"/>
+        <axis xyz="0 0 1"/>
+        <limit lower="0.0" upper="0.3050" effort="100" velocity="1.0"/>
+    </joint>
+    <link name="z_axis3">
+      <visual><geometry><mesh filename="../meshes/visual/z_axis3.dae" /></geometry></visual>
+      <collision><geometry><mesh filename="../meshes/collision/z_axis3.stl" /></geometry></collision>
+      <inertial><origin rpy="0 0 0" xyz="0 0 0"/><mass value="0.5"/><inertia ixx="0.002706437" ixy="0.000011205" ixz="-0.000008016" iyy="0.002153592" iyz="0.000141528" izz="0.002712272"/></inertial>
+    </link>
+
+    <joint name="pan1_joint" type="fixed">
+        <origin rpy="0 0 0" xyz="0.00675 0.02793 -0.395376"/>
+        <parent link="z_axis3"/>
+        <child link="pan1"/>
+    </joint>
+    <link name="pan1">
+      <visual><geometry><mesh filename="../meshes/visual/pan1.dae" /></geometry></visual>
+      <collision><geometry><mesh filename="../meshes/collision/pan1.stl" /></geometry></collision>
+      <inertial><origin rpy="0 0 0" xyz="0 0 0"/><mass value="0.05"/><inertia ixx="0.002706437" ixy="0.000011205" ixz="-0.000008016" iyy="0.002153592" iyz="0.000141528" izz="0.002712272"/></inertial>
+    </link>
+
+    <joint name="pan2_joint" type="revolute">
+        <origin rpy="0 0 3.14" xyz="-0.02175 -0.028 -0.051"/>
+        <parent link="pan1"/>
+        <child link="pan2"/>
+        <axis xyz="0 0 1"/>
+        <limit effort="10" lower="-3.14" upper="3.14" velocity="3.14"/>
+    </joint>
+    <link name="pan2">
+      <visual><geometry><mesh filename="../meshes/visual/pan2.dae" /></geometry></visual>
+      <collision><geometry><mesh filename="../meshes/collision/pan2.stl" /></geometry></collision>
+      <inertial><origin rpy="0 0 0" xyz="0 0 0"/><mass value="0.05"/><inertia ixx="0.002706437" ixy="0.000011205" ixz="-0.000008016" iyy="0.002153592" iyz="0.000141528" izz="0.002712272"/></inertial>
+    </link>
+
+    <joint name="tilt_joint" type="fixed">
+        <origin rpy="0 0 0" xyz="-0.04457 -0.00006 -0.04335"/>
+        <parent link="pan2"/>
+        <child link="tilt"/>         <axis xyz="1 0 0"/>
+        <limit effort="10" lower="-1.57" upper="1.57" velocity="3.14"/>
+    </joint>
+    <link name="tilt">
+      <visual><geometry><mesh filename="../meshes/visual/tilt.dae" /></geometry></visual>
+      <collision><geometry><mesh filename="../meshes/collision/tilt.stl" /></geometry></collision>
+      <inertial><origin rpy="0 0 0" xyz="0 0 0"/><mass value="0.05"/><inertia ixx="0.002706437" ixy="0.000011205" ixz="-0.000008016" iyy="0.002153592" iyz="0.000141528" izz="0.002712272"/></inertial>
+    </link>
+
+    <joint name="kuka_mount_joint" type="fixed">
+        <origin rpy="0 0 0" xyz="0.04484 0.000117 -0.026693"/> <parent link="tilt"/>
+        <child link="kuka_mount_point"/>
+    </joint>
+    <link name="kuka_mount_point">
+        <visual>
+            <geometry>
+                <mesh filename="../meshes/visual/base.dae" /> </geometry>
+        </visual>
+        <collision>
+            <geometry>
+                <mesh filename="../meshes/collision/base.stl" /> </geometry>
+        </collision>
+        <inertial>
+            <origin rpy="0 0 0" xyz="0 0 0"/>
+            <mass value="0.01"/> <inertia ixx="0.002706437" ixy="0.000011205" ixz="-0.000008016" iyy="0.002153592" iyz="0.000141528" izz="0.002712272"/>
+        </inertial>
+    </link>
+
+</robot>

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 326a3c9338dc76e468ce2a3ba3fbc965
+timeCreated: 1541573038
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/PointCloudViewerDX11/Scripts/Common/dev/RemoteCameraListener.cs
+  uploadId: 755443

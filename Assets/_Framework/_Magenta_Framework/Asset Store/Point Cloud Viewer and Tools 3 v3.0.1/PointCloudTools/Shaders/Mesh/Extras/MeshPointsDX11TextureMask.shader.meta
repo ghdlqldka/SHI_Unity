@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1976045b0faed044f85545e2eb782152
+timeCreated: 1459593950
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/Shaders/Mesh/Extras/MeshPointsDX11TextureMask.shader
+  uploadId: 755443

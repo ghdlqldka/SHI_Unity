@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1a8e310c9327a7046bea366d748d869c
+timeCreated: 1458574400
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93478
+  packageName: crossSection
+  packageVersion: 2.24
+  assetPath: Assets/WorldSpaceTransitions/crossSection (Built In)/materials/L_RS1.mat
+  uploadId: 674954

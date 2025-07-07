@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 68787dadd8ab9454b920de97c9e12e14
+timeCreated: 1516973740
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 125537
+  packageName: Runtime Transform Gizmos
+  packageVersion: 2.0.2
+  assetPath: Assets/Runtime Transform Gizmos/Scripts/Gizmos/Sliders/3D Plane Slider/GizmoQuad3DBorderType.cs
+  uploadId: 733781

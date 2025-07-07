@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ea9d9971dff2b594dbe26f6211531512
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 174069
+  packageName: Hybrid IK
+  packageVersion: 1.02
+  assetPath: Assets/HybridIK/DemoScenes/RobotArmIKDemo.unity
+  uploadId: 532533

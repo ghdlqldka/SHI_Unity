@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 469df18d3451a18499223af8480d2acc
+DefaultImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/Demos/PointCloudViewer/Scenes/PointCloud-DynamicResolution.unity
+  uploadId: 755443

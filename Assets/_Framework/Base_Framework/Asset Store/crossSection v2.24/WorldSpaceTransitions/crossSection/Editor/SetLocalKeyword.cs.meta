@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b91cd916d7d2f2447b831d9445faa0a7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93478
+  packageName: crossSection
+  packageVersion: 2.24
+  assetPath: Assets/WorldSpaceTransitions/crossSection/Editor/SetLocalKeyword.cs
+  uploadId: 674954

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ce858c10403c32e46ba8b298cff5d62a
+timeCreated: 1489930539
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/Materials/DX11/PointCloudColorSizeByDistanceDX11.mat
+  uploadId: 755443

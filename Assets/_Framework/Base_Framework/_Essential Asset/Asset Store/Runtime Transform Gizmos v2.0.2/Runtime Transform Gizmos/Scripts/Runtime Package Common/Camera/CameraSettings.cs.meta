@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: c7389c46ded205a418fc6482dfef8aa4
+timeCreated: 1497119326
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 125537
+  packageName: Runtime Transform Gizmos
+  packageVersion: 2.0.2
+  assetPath: Assets/Runtime Transform Gizmos/Scripts/Runtime Package Common/Camera/CameraSettings.cs
+  uploadId: 733781

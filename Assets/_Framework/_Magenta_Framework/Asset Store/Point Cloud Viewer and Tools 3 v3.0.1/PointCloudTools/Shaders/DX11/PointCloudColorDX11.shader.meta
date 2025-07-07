@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5777a865300a10c40ae3eaadf49c95cc
+timeCreated: 1494603582
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/Shaders/DX11/PointCloudColorDX11.shader
+  uploadId: 755443

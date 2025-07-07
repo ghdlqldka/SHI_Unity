@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: f999de9a48aa6a54f84eefdca82133b4
+timeCreated: 1497955245
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 125537
+  packageName: Runtime Transform Gizmos
+  packageVersion: 2.0.2
+  assetPath: Assets/Runtime Transform Gizmos/Editor/Scripts/RTGizmoEngineInspector.cs
+  uploadId: 733781

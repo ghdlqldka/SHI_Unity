@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 0e356930de54792439fb7b193ffc7ee3
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/Materials/Mesh/PointCloudColorMeshAlpha.mat
+  uploadId: 755443

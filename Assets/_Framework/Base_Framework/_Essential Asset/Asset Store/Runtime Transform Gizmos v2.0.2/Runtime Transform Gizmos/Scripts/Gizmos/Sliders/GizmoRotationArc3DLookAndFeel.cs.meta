@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 8333aa4e0ba46714aabd53a046cd12b7
+timeCreated: 1515855134
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 125537
+  packageName: Runtime Transform Gizmos
+  packageVersion: 2.0.2
+  assetPath: Assets/Runtime Transform Gizmos/Scripts/Gizmos/Sliders/GizmoRotationArc3DLookAndFeel.cs
+  uploadId: 733781

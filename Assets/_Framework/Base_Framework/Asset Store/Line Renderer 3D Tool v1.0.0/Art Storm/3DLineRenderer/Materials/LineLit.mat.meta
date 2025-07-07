@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1f90ee1967386384b936d481c36692e6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270994
+  packageName: Line Renderer 3D Tool
+  packageVersion: 1.0.0
+  assetPath: Assets/Art Storm/3DLineRenderer/Materials/LineLit.mat
+  uploadId: 634696

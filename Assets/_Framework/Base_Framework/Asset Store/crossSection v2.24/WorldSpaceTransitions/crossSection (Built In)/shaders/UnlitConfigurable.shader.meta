@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 70a40a5bad0ad4046834119b6f1d9527
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93478
+  packageName: crossSection
+  packageVersion: 2.24
+  assetPath: Assets/WorldSpaceTransitions/crossSection (Built In)/shaders/UnlitConfigurable.shader
+  uploadId: 674954

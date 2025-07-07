@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 90a9a0aae5a20b34b8eeb0a42a51c720
+timeCreated: 1497442384
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93478
+  packageName: crossSection
+  packageVersion: 2.24
+  assetPath: Assets/WorldSpaceTransitions/crossSection (Built In)/shaderOthers/GlassStainedBumpDistortWS.shader
+  uploadId: 674954

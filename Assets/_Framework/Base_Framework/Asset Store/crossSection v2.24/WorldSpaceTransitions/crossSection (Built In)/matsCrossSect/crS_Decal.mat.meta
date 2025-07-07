@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 71ee52165d251214ca0ca45a5423180a
+timeCreated: 1462260481
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93478
+  packageName: crossSection
+  packageVersion: 2.24
+  assetPath: Assets/WorldSpaceTransitions/crossSection (Built In)/matsCrossSect/crS_Decal.mat
+  uploadId: 674954

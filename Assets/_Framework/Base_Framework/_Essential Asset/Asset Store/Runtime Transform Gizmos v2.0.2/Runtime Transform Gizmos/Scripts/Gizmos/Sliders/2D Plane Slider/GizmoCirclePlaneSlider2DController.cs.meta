@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 8d396e8d063358a48851f0b743ebc0cf
+timeCreated: 1519062936
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 125537
+  packageName: Runtime Transform Gizmos
+  packageVersion: 2.0.2
+  assetPath: Assets/Runtime Transform Gizmos/Scripts/Gizmos/Sliders/2D Plane Slider/GizmoCirclePlaneSlider2DController.cs
+  uploadId: 733781

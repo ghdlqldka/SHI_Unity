@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 939c2c7cce57a09439b6430cd1710a99
+timeCreated: 1485857823
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 125537
+  packageName: Runtime Transform Gizmos
+  packageVersion: 2.0.2
+  assetPath: Assets/Runtime Transform Gizmos/Scripts/Runtime Package Common/Singleton/Singleton.cs
+  uploadId: 733781

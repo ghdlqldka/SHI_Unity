@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 8e731e1fdff92214fbe6c27edc227243
+timeCreated: 1485628693
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 125537
+  packageName: Runtime Transform Gizmos
+  packageVersion: 2.0.2
+  assetPath: Assets/Runtime Transform Gizmos/Scripts/Runtime Package Common/Camera/CameraLookAroundSettings.cs
+  uploadId: 733781

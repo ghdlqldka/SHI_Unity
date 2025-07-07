@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 5a8c6c1f1bde0114ca48bdd0d3b304f6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107085
+  packageName: ROS#
+  packageVersion: 2.1.0
+  assetPath: Assets/ROS# Project Team/ROS#/Runtime/RosBridgeClient/RosCommunication/JoySubscriber.cs
+  uploadId: 725952

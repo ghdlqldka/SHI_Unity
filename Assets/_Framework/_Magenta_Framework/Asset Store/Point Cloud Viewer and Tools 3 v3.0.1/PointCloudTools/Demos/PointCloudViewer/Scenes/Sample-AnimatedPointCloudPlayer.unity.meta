@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9f7e482ecc28e6e4d818f6657eb6b862
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/Demos/PointCloudViewer/Scenes/Sample-AnimatedPointCloudPlayer.unity
+  uploadId: 755443

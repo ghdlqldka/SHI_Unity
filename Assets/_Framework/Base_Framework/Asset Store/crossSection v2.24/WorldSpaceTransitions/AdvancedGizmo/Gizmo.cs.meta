@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 5b0e91fb8d90cbb42880295ec5ff237f
+timeCreated: 1466167602
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93478
+  packageName: crossSection
+  packageVersion: 2.24
+  assetPath: Assets/WorldSpaceTransitions/AdvancedGizmo/Gizmo.cs
+  uploadId: 674954

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 0b575df2e7b20434ca84a8d2ce6a03ce
+timeCreated: 1520774737
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 125537
+  packageName: Runtime Transform Gizmos
+  packageVersion: 2.0.2
+  assetPath: Assets/Runtime Transform Gizmos/Scripts/Runtime Package Common/Utilities/ObjectSnap.cs
+  uploadId: 733781

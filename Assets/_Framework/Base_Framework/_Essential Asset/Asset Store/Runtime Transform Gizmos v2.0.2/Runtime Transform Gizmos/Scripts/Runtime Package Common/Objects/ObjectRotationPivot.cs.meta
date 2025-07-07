@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 7c2099ef38ef57a4c915b89b0b22dfdd
+timeCreated: 1516394724
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 125537
+  packageName: Runtime Transform Gizmos
+  packageVersion: 2.0.2
+  assetPath: Assets/Runtime Transform Gizmos/Scripts/Runtime Package Common/Objects/ObjectRotationPivot.cs
+  uploadId: 733781

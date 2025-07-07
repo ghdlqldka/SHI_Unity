@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 3841443f533f12e4d84588df1bae3f4a
+timeCreated: 1508865108
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 125537
+  packageName: Runtime Transform Gizmos
+  packageVersion: 2.0.2
+  assetPath: Assets/Runtime Transform Gizmos/Scripts/Runtime Package Common/Transform/TransformAxis.cs
+  uploadId: 733781

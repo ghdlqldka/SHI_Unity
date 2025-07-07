@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 439cbd8c3f204124b93dd8af37b46c1b
+timeCreated: 1486481254
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93478
+  packageName: crossSection
+  packageVersion: 2.24
+  assetPath: Assets/WorldSpaceTransitions/crossSection (Built In)/capped_setups/MaterialsTextured/hatchShow_5T.mat
+  uploadId: 674954

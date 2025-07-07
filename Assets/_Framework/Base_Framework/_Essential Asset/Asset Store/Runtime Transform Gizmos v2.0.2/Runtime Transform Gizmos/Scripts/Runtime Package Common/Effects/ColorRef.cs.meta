@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: c2a2e4018500d844faadbf8344eae249
+timeCreated: 1505223694
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 125537
+  packageName: Runtime Transform Gizmos
+  packageVersion: 2.0.2
+  assetPath: Assets/Runtime Transform Gizmos/Scripts/Runtime Package Common/Effects/ColorRef.cs
+  uploadId: 733781

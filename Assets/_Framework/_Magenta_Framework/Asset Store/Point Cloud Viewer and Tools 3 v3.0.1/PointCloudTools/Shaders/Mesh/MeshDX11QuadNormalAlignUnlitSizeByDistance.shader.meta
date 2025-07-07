@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 737a2741dd9c84041b6d81378f26657f
+timeCreated: 1514093679
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/Shaders/Mesh/MeshDX11QuadNormalAlignUnlitSizeByDistance.shader
+  uploadId: 755443

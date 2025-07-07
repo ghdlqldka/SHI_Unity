@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4255a77337c569c42989d244d8877671
+timeCreated: 1459593950
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/Shaders/Mesh/MeshPointsDX11QuadOffset-Gradient.shader
+  uploadId: 755443

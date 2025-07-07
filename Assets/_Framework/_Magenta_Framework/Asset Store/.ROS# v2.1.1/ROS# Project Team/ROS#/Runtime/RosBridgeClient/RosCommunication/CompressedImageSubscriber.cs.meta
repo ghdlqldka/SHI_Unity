@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 32a5b153e8f225b448038311e2cee266
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107085
+  packageName: ROS#
+  packageVersion: 2.1.0
+  assetPath: Assets/ROS# Project Team/ROS#/Runtime/RosBridgeClient/RosCommunication/CompressedImageSubscriber.cs
+  uploadId: 725952

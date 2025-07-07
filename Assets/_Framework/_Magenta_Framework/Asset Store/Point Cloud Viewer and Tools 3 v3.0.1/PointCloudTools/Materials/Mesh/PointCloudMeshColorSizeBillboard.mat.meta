@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: af2e9182ecbc6e6418d5fda496b70728
+timeCreated: 1522222525
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/Materials/Mesh/PointCloudMeshColorSizeBillboard.mat
+  uploadId: 755443

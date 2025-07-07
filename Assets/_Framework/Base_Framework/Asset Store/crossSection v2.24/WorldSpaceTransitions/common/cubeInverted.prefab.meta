@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cb08353a430fdb4418966fe8064abb80
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93478
+  packageName: crossSection
+  packageVersion: 2.24
+  assetPath: Assets/WorldSpaceTransitions/common/cubeInverted.prefab
+  uploadId: 674954

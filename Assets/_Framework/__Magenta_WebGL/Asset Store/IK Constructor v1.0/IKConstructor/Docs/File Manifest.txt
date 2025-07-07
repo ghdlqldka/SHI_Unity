@@ -1,0 +1,57 @@
+Assets/IKConstructor - Primary asset folder
+  /Docs - Documentation files
+
+  /Editor - Copy this folder contents under Assets/Editor
+	folder to make IKConstructor asset work properly.
+  
+  /Examples - Contains a demo scene and various resources.
+  /Scripts - Contains IK-template scripts and all
+	dependency files. Use scripts from this folder
+	to make your own IK-chains.
+
+Entire file manifest
+====================
+Assets/IKConstructor/
+  Docs/
+    IKConstructor.pdf
+    FileManifest.txt
+  Editor/
+    IKArmEditor.cs
+    IKAxisEditor.cs
+    IKMoverEditor.cs
+  Examples/
+    Materials/
+      3DText Main.mat
+      3DText Rod.mat
+      3DText Wheel.mat
+      Floot.mat
+      Gears.mat
+      RobotArm.mat
+    Models/
+      GearBox.fbx
+      IKConstructor.fbx
+      RobotArm.fbx
+    Scenes/
+      Demo.unity
+    Scripts/
+      GearBox.cs
+      IKTextControl.cs
+      ScrewAnim.cs
+      ScrewDriverRobot.cs
+      TwoAxisRobotAnimator.cs
+      TwoAxisRobotController.cs
+    Textures/
+      RobotArm_AlbedoTransparency.png
+      RobotArm_ambient_occlusion.png
+      RobotArm_Height.png
+      RobotArm_MetallicSmoothness.png
+      RobotArm_Normal.png
+
+  Scripts/		IKConstructor primary stuff
+    Core/		IKConstructor dependencies
+      IKBase.cs		Base class for each IK-template
+      IKUtility.cs	Utility functions
+
+    IKArm.cs		IKArm template
+    IKAxis.cs		IKAxis template
+    IKMover.cs		IKMover template

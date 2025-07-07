@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: fcab6c0eee5d6224baceee9f591b5032
+timeCreated: 1494399736
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/Shaders/DX11/PointCloudSizeByDistanceGradientByDistanceMultipliedDX11v2.shader
+  uploadId: 755443

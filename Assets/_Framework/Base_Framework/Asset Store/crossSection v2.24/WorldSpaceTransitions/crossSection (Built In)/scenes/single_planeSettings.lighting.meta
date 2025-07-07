@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 74cf8e0a00b40ab4dba1814abf7424c1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93478
+  packageName: crossSection
+  packageVersion: 2.24
+  assetPath: Assets/WorldSpaceTransitions/crossSection (Built In)/scenes/single_planeSettings.lighting
+  uploadId: 674954

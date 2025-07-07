@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5a2bf14166ab720419405972dca08c0c
+timeCreated: 1459593950
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/Shaders/Mesh/MeshPointsDX11Circle.shader
+  uploadId: 755443

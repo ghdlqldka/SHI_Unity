@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a3301f820001db74ea2639b925294e01
+timeCreated: 1486481254
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93478
+  packageName: crossSection
+  packageVersion: 2.24
+  assetPath: Assets/WorldSpaceTransitions/crossSection (Built In)/capped_setups/hatchAdvZ.mat
+  uploadId: 674954

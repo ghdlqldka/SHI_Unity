@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6cfcde54f356b544f8ee485a2e230af8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93478
+  packageName: crossSection
+  packageVersion: 2.24
+  assetPath: Assets/WorldSpaceTransitions/crossSection (Built In)/scenes/cube_sectionSettings.lighting
+  uploadId: 674954

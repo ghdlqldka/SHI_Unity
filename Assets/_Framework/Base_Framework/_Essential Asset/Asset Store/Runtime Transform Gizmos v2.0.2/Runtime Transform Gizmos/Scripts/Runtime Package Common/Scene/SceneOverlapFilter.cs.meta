@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 53bddee02b9944b40ab6c6c70f424318
+timeCreated: 1524149740
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 125537
+  packageName: Runtime Transform Gizmos
+  packageVersion: 2.0.2
+  assetPath: Assets/Runtime Transform Gizmos/Scripts/Runtime Package Common/Scene/SceneOverlapFilter.cs
+  uploadId: 733781

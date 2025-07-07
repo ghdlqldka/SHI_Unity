@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 33af7cfea975c4b428659f0f0396ba45
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93478
+  packageName: crossSection
+  packageVersion: 2.24
+  assetPath: Assets/WorldSpaceTransitions/crossSection (Built In)/scenes/corner_capped.unity
+  uploadId: 674954

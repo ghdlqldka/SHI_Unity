@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f7efd0cea44404767baf07bf7f2cecc6
+timeCreated: 1504231525
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 99316
+  packageName: URDF Importer
+  packageVersion: 1.0
+  assetPath: Assets/URDFImporter/ReadMe
+  uploadId: 198970

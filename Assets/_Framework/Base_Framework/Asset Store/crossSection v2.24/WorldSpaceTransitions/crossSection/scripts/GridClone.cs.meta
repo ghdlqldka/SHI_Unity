@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 62f91b568c9a0a84387d07a4240f9a52
+timeCreated: 1497451037
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93478
+  packageName: crossSection
+  packageVersion: 2.24
+  assetPath: Assets/WorldSpaceTransitions/crossSection/scripts/GridClone.cs
+  uploadId: 674954

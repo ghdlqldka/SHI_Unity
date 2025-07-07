@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c62c02e3997f39c41807bc159b49679e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93478
+  packageName: crossSection
+  packageVersion: 2.24
+  assetPath: Assets/WorldSpaceTransitions/crossSection (Built In)/capped_setups/materials/containedB1.mat
+  uploadId: 674954

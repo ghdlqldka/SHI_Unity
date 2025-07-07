@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ebdf6842355f41e45a20940a727d0300
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 26286
+  packageName: Paint in 3D
+  packageVersion: 4.1.11
+  assetPath: Assets/Plugins/CW/Third-Party Notices.txt
+  uploadId: 763290

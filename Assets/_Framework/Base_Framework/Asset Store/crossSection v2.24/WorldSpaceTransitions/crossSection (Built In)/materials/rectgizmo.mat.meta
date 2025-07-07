@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 87868596ac28fc94a897601329d54a4e
+timeCreated: 1460398341
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93478
+  packageName: crossSection
+  packageVersion: 2.24
+  assetPath: Assets/WorldSpaceTransitions/crossSection (Built In)/materials/rectgizmo.mat
+  uploadId: 674954

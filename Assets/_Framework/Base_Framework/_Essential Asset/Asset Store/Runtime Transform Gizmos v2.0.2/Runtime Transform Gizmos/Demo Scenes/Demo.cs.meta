@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 4087e6b8d8d7e2941b74e1050f1c6fae
+timeCreated: 1533908384
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 125537
+  packageName: Runtime Transform Gizmos
+  packageVersion: 2.0.2
+  assetPath: Assets/Runtime Transform Gizmos/Demo Scenes/Demo.cs
+  uploadId: 733781

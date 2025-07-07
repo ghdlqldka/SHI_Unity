@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 64f7c1e8c2760d044ad6718d5086eccc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93478
+  packageName: crossSection
+  packageVersion: 2.24
+  assetPath: Assets/WorldSpaceTransitions/crossSection/Editor/BuildSceneSelections.cs
+  uploadId: 674954

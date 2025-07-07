@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: df29095b2c2b79a428cbfa79afb36bb9
+timeCreated: 1428187181
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/Demos/VideoExtrude/Scenes/scene_VideoDepthExtrude.unity
+  uploadId: 755443

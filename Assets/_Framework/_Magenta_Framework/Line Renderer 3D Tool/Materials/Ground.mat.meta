@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 27b303a3f352e234b8bcecc239343d94
+timeCreated: 1471565824
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 67819
+  packageName: Bio IK
+  packageVersion: 2.0d
+  assetPath: Assets/BioIK/Demo/Materials/Ground.mat
+  uploadId: 199125

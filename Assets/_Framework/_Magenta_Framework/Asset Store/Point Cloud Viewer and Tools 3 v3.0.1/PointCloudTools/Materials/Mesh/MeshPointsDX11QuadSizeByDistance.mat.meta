@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ebb22df1e500f734787e54ee30cface3
+timeCreated: 1494667719
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/Materials/Mesh/MeshPointsDX11QuadSizeByDistance.mat
+  uploadId: 755443

@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 8f553e2b638e71945aacca9bd8d4963b
+timeCreated: 1524543767
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93478
+  packageName: crossSection
+  packageVersion: 2.24
+  assetPath: Assets/WorldSpaceTransitions/common/ReadOnlyAttribute.cs
+  uploadId: 674954

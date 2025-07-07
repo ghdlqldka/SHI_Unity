@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b8a651a183a8c1443a30fc1d5487ea05
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 174069
+  packageName: Hybrid IK
+  packageVersion: 1.02
+  assetPath: Assets/HybridIK/Scripts/Main/HybridIKStretchJunction.cs
+  uploadId: 532533

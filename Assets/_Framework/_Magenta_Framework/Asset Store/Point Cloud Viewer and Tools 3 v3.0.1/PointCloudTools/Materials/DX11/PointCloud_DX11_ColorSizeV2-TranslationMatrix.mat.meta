@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2cc4f526ea0b7a44b95b0186e0c148de
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/Materials/DX11/PointCloud_DX11_ColorSizeV2-TranslationMatrix.mat
+  uploadId: 755443

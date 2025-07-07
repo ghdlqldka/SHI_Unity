@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: c2686a3702f687444b30c46f46742886
+timeCreated: 1497708018
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 125537
+  packageName: Runtime Transform Gizmos
+  packageVersion: 2.0.2
+  assetPath: Assets/Runtime Transform Gizmos/Scripts/Gizmos/Scene Gizmo/SceneGizmoCamViewportUpdater.cs
+  uploadId: 733781

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f722bdba3cf061841a5453a230488336
+timeCreated: 1444212493
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93478
+  packageName: crossSection
+  packageVersion: 2.24
+  assetPath: Assets/WorldSpaceTransitions/crossSection (Built In)/AdvancedGizmo (Built
+    In)/Materials/Gizmo_Z.mat
+  uploadId: 674954

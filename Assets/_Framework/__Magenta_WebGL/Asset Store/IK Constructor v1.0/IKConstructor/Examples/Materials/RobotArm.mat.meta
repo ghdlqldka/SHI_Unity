@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 0492b5f558bb1d04682d8ee8371da12f
+timeCreated: 1512998191
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 106482
+  packageName: IK Constructor
+  packageVersion: 1.0
+  assetPath: Assets/IKConstructor/Examples/Materials/RobotArm.mat
+  uploadId: 218241

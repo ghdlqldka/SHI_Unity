@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0a33e1ea9d10afd45803b637b41b47ff
+timeCreated: 1570121233
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/Demos/PointCloudViewer/Scenes/PointCloud-ModifyAndSave-V2.unity
+  uploadId: 755443

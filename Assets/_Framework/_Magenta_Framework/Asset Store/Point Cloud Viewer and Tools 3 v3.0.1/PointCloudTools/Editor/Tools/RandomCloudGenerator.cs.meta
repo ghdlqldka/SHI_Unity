@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f07a3d7be0e86674481404bd9133d897
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/Editor/Tools/RandomCloudGenerator.cs
+  uploadId: 755443

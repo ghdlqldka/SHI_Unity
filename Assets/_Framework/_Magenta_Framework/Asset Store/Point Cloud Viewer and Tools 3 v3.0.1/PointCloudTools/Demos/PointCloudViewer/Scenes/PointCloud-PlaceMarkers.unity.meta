@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7a1e578eed0205c46920710567669eeb
+timeCreated: 1537532090
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/Demos/PointCloudViewer/Scenes/PointCloud-PlaceMarkers.unity
+  uploadId: 755443

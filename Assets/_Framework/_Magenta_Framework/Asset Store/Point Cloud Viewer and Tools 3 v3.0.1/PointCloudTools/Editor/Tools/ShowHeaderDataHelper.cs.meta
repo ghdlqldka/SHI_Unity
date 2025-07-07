@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e3f44186eab921b4db6c300bd285471d
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/Editor/Tools/ShowHeaderDataHelper.cs
+  uploadId: 755443

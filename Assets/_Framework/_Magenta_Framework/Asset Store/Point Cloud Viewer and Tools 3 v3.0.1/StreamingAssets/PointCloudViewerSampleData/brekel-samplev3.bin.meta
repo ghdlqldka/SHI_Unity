@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 36aa6f5a57e65f6498d4e4b5faee1c25
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/StreamingAssets/PointCloudViewerSampleData/brekel-samplev3.bin
+  uploadId: 755443

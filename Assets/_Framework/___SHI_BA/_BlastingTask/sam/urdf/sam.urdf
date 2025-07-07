@@ -1,0 +1,394 @@
+<?xml version="1.0"?>
+<robot name="sam">
+   
+    <!-- BASE -->
+    <link name="base">
+    </link>
+
+    <!-- BODY LINK --> 
+    <joint name="post_joint" type="fixed">
+        <origin rpy="0 0 0" xyz="0 0 0"/>
+        <parent link="base"/>
+        <child link="post"/>
+    </joint>
+
+    <link name="post">
+      <visual>
+        <geometry>
+          <mesh filename="/workspace/Genesis/genesis/assets/urdf/sam/meshes/visual/post.dae" />
+        </geometry>
+      </visual>
+      <collision>
+        <geometry>
+          <mesh filename="/workspace/Genesis/genesis/assets/urdf/sam/meshes/collision/post.stl" />
+        </geometry>
+      </collision>
+      <inertial>
+        <origin rpy="0 0 0" xyz="0 0 0"/>
+        <mass value="10"/>
+        <inertia ixx="0.002706437" ixy="0.000011205" ixz="-0.000008016" iyy="0.002153592" iyz="0.000141528" izz="0.002712272"/>
+      </inertial>
+    </link>
+
+    <joint name="slider_joint_x" type="prismatic">
+        <parent link="post"/>
+        <child link="x_axis"/>
+        <origin xyz="0.2713 0.23721 1.0416" rpy="0 0 0"/>
+        <axis xyz="1 0 0"/> <!-- X축 방향 -->
+        <limit lower="0.0" upper="2.2" effort="100" velocity="1.0"/>
+    </joint>
+    
+    <link name="x_axis">
+      <visual>
+        <geometry>
+          <mesh filename="/workspace/Genesis/genesis/assets/urdf/sam/meshes/visual/x_axis.dae" />
+        </geometry>
+      </visual>
+      <collision>
+        <geometry>
+          <mesh filename="/workspace/Genesis/genesis/assets/urdf/sam/meshes/collision/x_axis.stl" />
+        </geometry>
+      </collision>
+      <inertial>
+        <origin rpy="0 0 0" xyz="0 0 0"/>
+        <mass value="1.061"/>
+        <inertia ixx="0.002706437" ixy="0.000011205" ixz="-0.000008016" iyy="0.002153592" iyz="0.000141528" izz="0.002712272"/>
+      </inertial>
+    </link>
+
+    <joint name="slider_joint_y" type="prismatic">
+        <parent link="x_axis"/>
+        <child link="y_axis"/>
+        <origin xyz="-0.1282 0.27279 0.4065" rpy="0 0 0"/>
+        <axis xyz="0 1 0"/> <!-- Y축 방향 -->
+        <limit lower="0.0" upper="2.22" effort="100" velocity="1.0"/>
+    </joint>
+    
+    <link name="y_axis">
+      <visual>
+        <geometry>
+          <mesh filename="/workspace/Genesis/genesis/assets/urdf/sam/meshes/visual/y_axis.dae" />
+        </geometry>
+      </visual>
+      <collision>
+        <geometry>
+          <mesh filename="/workspace/Genesis/genesis/assets/urdf/sam/meshes/collision/y_axis.stl" />
+        </geometry>
+      </collision>
+      <inertial>
+        <origin rpy="0 0 0" xyz="0 0 0"/>
+        <mass value="1.061"/>
+        <inertia ixx="0.002706437" ixy="0.000011205" ixz="-0.000008016" iyy="0.002153592" iyz="0.000141528" izz="0.002712272"/>
+      </inertial>
+    </link>
+
+    <joint name="slider_joint_z2" type="prismatic">
+        <parent link="y_axis"/>
+        <child link="z_axis2"/>
+        <origin xyz="0.05516 0 -0.65055" rpy="0 0 0"/>
+        <axis xyz="0 0 1"/> <!--Z축 방향-->
+        <limit lower="0.0" upper="0.4064" effort="100" velocity="1.0"/>
+    </joint>
+    
+    <link name="z_axis2">
+      <visual>
+        <geometry>
+          <mesh filename="/workspace/Genesis/genesis/assets/urdf/sam/meshes/visual/z_axis2.dae" />
+        </geometry>
+      </visual>
+      <collision>
+        <geometry>
+          <mesh filename="/workspace/Genesis/genesis/assets/urdf/sam/meshes/collision/z_axis2.stl" />
+        </geometry>
+      </collision>
+      <inertial>
+        <origin rpy="0 0 0" xyz="0 0 0"/>
+        <mass value="0.5"/>
+        <inertia ixx="0.002706437" ixy="0.000011205" ixz="-0.000008016" iyy="0.002153592" iyz="0.000141528" izz="0.002712272"/>
+      </inertial>
+    </link>
+
+    <joint name="slider_joint_z3" type="prismatic">
+        <parent link="z_axis2"/>
+        <child link="z_axis3"/>
+        <origin xyz="-0.00996 0 -0.01529" rpy="0 0 0"/>
+        <axis xyz="0 0 1"/> <!--Z축 방향-->
+        <limit lower="0.0" upper="0.219235" effort="100" velocity="1.0"/>
+    </joint>
+
+    <link name="z_axis3">
+      <visual>
+        <geometry>
+          <mesh filename="/workspace/Genesis/genesis/assets/urdf/sam/meshes/visual/z_axis3.dae" />
+        </geometry>
+      </visual>
+      <collision>
+        <geometry>
+          <mesh filename="/workspace/Genesis/genesis/assets/urdf/sam/meshes/collision/z_axis3.stl" />
+        </geometry>
+      </collision>
+      <inertial>
+        <origin rpy="0 0 0" xyz="0 0 0"/>
+        <mass value="0.5"/>
+        <inertia ixx="0.002706437" ixy="0.000011205" ixz="-0.000008016" iyy="0.002153592" iyz="0.000141528" izz="0.002712272"/>
+      </inertial>
+    </link>
+
+    <joint name="pan1_joint" type="fixed">
+        <origin rpy="0 0 0" xyz="0.00675 0.02793 -0.395376"/>
+        <parent link="z_axis3"/>
+        <child link="pan1"/>
+    </joint>
+
+    <link name="pan1">
+      <visual>
+        <geometry>
+          <mesh filename="/workspace/Genesis/genesis/assets/urdf/sam/meshes/visual/pan1.dae" />
+        </geometry>
+      </visual>
+      <collision>
+        <geometry>
+          <mesh filename="/workspace/Genesis/genesis/assets/urdf/sam/meshes/collision/pan1.stl" />
+        </geometry>
+      </collision>
+      <inertial>
+        <origin rpy="0 0 0" xyz="0 0 0"/>
+        <mass value="0.05"/>
+        <inertia ixx="0.002706437" ixy="0.000011205" ixz="-0.000008016" iyy="0.002153592" iyz="0.000141528" izz="0.002712272"/>
+      </inertial>
+    </link>
+
+    <joint name="pan2_joint" type="revolute">
+        <origin rpy="0 0 0" xyz="-0.02175 -0.028 -0.051"/>
+        <parent link="pan1"/>
+        <child link="pan2"/>
+        <axis xyz="0 0 1"/>
+        <limit effort="10" lower="-3.14" upper="3.14" velocity="3.14"/>
+    </joint>
+
+    <link name="pan2">
+      <visual>
+        <geometry>
+          <mesh filename="/workspace/Genesis/genesis/assets/urdf/sam/meshes/visual/pan2.dae" />
+        </geometry>
+      </visual>
+      <collision>
+        <geometry>
+          <mesh filename="/workspace/Genesis/genesis/assets/urdf/sam/meshes/collision/pan2.stl" />
+        </geometry>
+      </collision>
+      <inertial>
+        <origin rpy="0 0 0" xyz="0 0 0"/>
+        <mass value="0.05"/>
+        <inertia ixx="0.002706437" ixy="0.000011205" ixz="-0.000008016" iyy="0.002153592" iyz="0.000141528" izz="0.002712272"/>
+      </inertial>
+    </link>
+
+    <joint name="tilt_joint" type="revolute">
+        <origin rpy="0 0 0" xyz="-0.04457 -0.00006 -0.04335"/>
+        <parent link="pan2"/>
+        <child link="tilt"/>
+        <axis xyz="1 0 0"/>
+        <limit effort="10" lower="-1.57" upper="1.57" velocity="3.14"/>
+    </joint>
+
+    <link name="tilt">
+      <visual>
+        <geometry>
+          <mesh filename="/workspace/Genesis/genesis/assets/urdf/sam/meshes/visual/tilt.dae" />
+        </geometry>
+      </visual>
+      <collision>
+        <geometry>
+          <mesh filename="/workspace/Genesis/genesis/assets/urdf/sam/meshes/collision/tilt.stl" />
+        </geometry>
+      </collision>
+      <inertial>
+        <origin rpy="0 0 0" xyz="0 0 0"/>
+        <mass value="0.05"/>
+        <inertia ixx="0.002706437" ixy="0.000011205" ixz="-0.000008016" iyy="0.002153592" iyz="0.000141528" izz="0.002712272"/>
+      </inertial>
+    </link>
+
+    <joint name="base_joint" type="fixed">
+        <origin rpy="0 0 0" xyz="0.05957 0.020057 -0.026693"/>
+        <parent link="tilt"/>
+        <child link="kuka_base"/>
+    </joint>
+
+    <link name="kuka_base">
+      <visual>
+        <geometry>
+          <mesh filename="/workspace/Genesis/genesis/assets/urdf/sam/meshes/visual/base.dae" />
+        </geometry>
+      </visual>
+      <collision>
+        <geometry>
+          <mesh filename="/workspace/Genesis/genesis/assets/urdf/sam/meshes/collision/base.stl" />
+        </geometry>
+      </collision>
+      <inertial>
+        <origin rpy="0 0 0" xyz="0 0 0"/>
+        <mass value="0.01"/>
+        <inertia ixx="0.002706437" ixy="0.000011205" ixz="-0.000008016" iyy="0.002153592" iyz="0.000141528" izz="0.002712272"/>
+      </inertial>
+    </link>
+
+    <joint name="kuka1_joint" type="revolute">
+        <origin rpy="0 0 0" xyz="-0.015 -0.02 -0.018"/>
+        <parent link="kuka_base"/>
+        <child link="kuka1"/>
+        <axis xyz="0 0 1"/>
+        <limit effort="10" lower="-3.14" upper="3.14" velocity="3.14"/>
+    </joint>
+
+    <link name="kuka1">
+      <visual>
+        <geometry>
+          <mesh filename="/workspace/Genesis/genesis/assets/urdf/sam/meshes/visual/kuka1.dae" />
+        </geometry>
+      </visual>
+      <collision>
+        <geometry>
+          <mesh filename="/workspace/Genesis/genesis/assets/urdf/sam/meshes/collision/kuka1.stl" />
+        </geometry>
+      </collision>
+      <inertial>
+        <origin rpy="0 0 0" xyz="0 0 0"/>
+        <mass value="0.01"/>
+        <inertia ixx="0.002706437" ixy="0.000011205" ixz="-0.000008016" iyy="0.002153592" iyz="0.000141528" izz="0.002712272"/>
+      </inertial>
+    </link>
+
+    <joint name="kuka2_joint" type="revolute">
+        <origin rpy="0 0 0" xyz="-0.0175 -0.01165 -0.0395"/>
+        <parent link="kuka1"/>
+        <child link="kuka2"/>
+        <axis xyz="0 1 0"/>
+        <limit effort="10" lower="-3.14" upper="3.14" velocity="3.14"/>
+    </joint>
+
+    <link name="kuka2">
+      <visual>
+        <geometry>
+          <mesh filename="/workspace/Genesis/genesis/assets/urdf/sam/meshes/visual/kuka2.dae" />
+        </geometry>
+      </visual>
+      <collision>
+        <geometry>
+          <mesh filename="/workspace/Genesis/genesis/assets/urdf/sam/meshes/collision/kuka2.stl" />
+        </geometry>
+      </collision>
+      <inertial>
+        <origin rpy="0 0 0" xyz="0 0 0"/>
+        <mass value="0.01"/>
+        <inertia ixx="0.002706437" ixy="0.000011205" ixz="-0.000008016" iyy="0.002153592" iyz="0.000141528" izz="0.002712272"/>
+      </inertial>
+    </link>
+
+    <joint name="kuka3_joint" type="revolute">
+        <origin rpy="0 0 0" xyz="0 -0.0063 -0.089"/>
+        <parent link="kuka2"/>
+        <child link="kuka3"/>
+        <axis xyz="0 1 0"/>
+        <limit effort="10" lower="-3.14" upper="3.14" velocity="3.14"/>
+    </joint>
+
+    <link name="kuka3">
+      <visual>
+        <geometry>
+          <mesh filename="/workspace/Genesis/genesis/assets/urdf/sam/meshes/visual/kuka3.dae" />
+        </geometry>
+      </visual>
+      <collision>
+        <geometry>
+          <mesh filename="/workspace/Genesis/genesis/assets/urdf/sam/meshes/collision/kuka3.stl" />
+        </geometry>
+      </collision>
+      <inertial>
+        <origin rpy="0 0 0" xyz="0 0 0"/>
+        <mass value="0.01"/>
+        <inertia ixx="0.002706437" ixy="0.000011205" ixz="-0.000008016" iyy="0.002153592" iyz="0.000141528" izz="0.002712272"/>
+      </inertial>
+    </link>
+
+    <joint name="kuka4_joint" type="revolute">
+        <origin rpy="0 0 0" xyz="-0.034675 0.01795 -0.005"/>
+        <parent link="kuka3"/>
+        <child link="kuka4"/>
+        <axis xyz="1 0 0"/>
+        <limit effort="10" lower="-3.14" upper="3.14" velocity="3.14"/>
+    </joint>
+
+    <link name="kuka4">
+      <visual>
+        <geometry>
+          <mesh filename="/workspace/Genesis/genesis/assets/urdf/sam/meshes/visual/kuka4.dae" />
+        </geometry>
+      </visual>
+      <collision>
+        <geometry>
+          <mesh filename="/workspace/Genesis/genesis/assets/urdf/sam/meshes/collision/kuka4.stl" />
+        </geometry>
+      </collision>
+      <inertial>
+        <origin rpy="0 0 0" xyz="0 0 0"/>
+        <mass value="0.01"/>
+        <inertia ixx="0.002706437" ixy="0.000011205" ixz="-0.000008016" iyy="0.002153592" iyz="0.000141528" izz="0.002712272"/>
+      </inertial>
+    </link>
+
+    <joint name="kuka5_joint" type="revolute">
+        <origin rpy="0 0 0" xyz="-0.06882 0.0022 0"/>
+        <parent link="kuka4"/>
+        <child link="kuka5"/>
+        <axis xyz="0 1 0"/>
+        <limit effort="10" lower="-3.14" upper="3.14" velocity="3.14"/>
+    </joint>
+
+    <link name="kuka5">
+      <visual>
+        <geometry>
+          <mesh filename="/workspace/Genesis/genesis/assets/urdf/sam/meshes/visual/kuka5.dae" />
+        </geometry>
+      </visual>
+      <collision>
+        <geometry>
+          <mesh filename="/workspace/Genesis/genesis/assets/urdf/sam/meshes/collision/kuka5.stl" />
+        </geometry>
+      </collision>
+      <inertial>
+        <origin rpy="0 0 0" xyz="0 0 0"/>
+        <mass value="0.01"/>
+        <inertia ixx="0.002706437" ixy="0.000011205" ixz="-0.000008016" iyy="0.002153592" iyz="0.000141528" izz="0.002712272"/>
+      </inertial>
+    </link>
+
+    <joint name="kuka6_joint" type="revolute">
+        <origin rpy="0 0 0" xyz="-0.01545 -0.00216 0.00015"/>
+        <parent link="kuka5"/>
+        <child link="kuka6"/>
+        <axis xyz="1 0 0"/>
+        <limit effort="10" lower="-3.14" upper="3.14" velocity="3.14"/>
+    </joint>
+
+    <link name="kuka6">
+      <visual>
+        <geometry>
+          <mesh filename="/workspace/Genesis/genesis/assets/urdf/sam/meshes/visual/kuka6.dae" />
+        </geometry>
+      </visual>
+      <collision>
+        <geometry>
+          <mesh filename="/workspace/Genesis/genesis/assets/urdf/sam/meshes/collision/kuka6.stl" />
+        </geometry>
+      </collision>
+      <inertial>
+        <origin rpy="0 0 0" xyz="0 0 0"/>
+        <mass value="0.01"/>
+        <inertia ixx="0.002706437" ixy="0.000011205" ixz="-0.000008016" iyy="0.002153592" iyz="0.000141528" izz="0.002712272"/>
+      </inertial>
+    </link>
+
+
+</robot>

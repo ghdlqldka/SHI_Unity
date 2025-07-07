@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 60f72b94cc328ba4fbb4275323f97baf
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 2506
+  packageName: Simple Waypoint System
+  packageVersion: 5.5.3
+  assetPath: Assets/SimpleWaypointSystem/Examples/Assets/Shaders/DiffuseReflectiveShader.shader
+  uploadId: 709069

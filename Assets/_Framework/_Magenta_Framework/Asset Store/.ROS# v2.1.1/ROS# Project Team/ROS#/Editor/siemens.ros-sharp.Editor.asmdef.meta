@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 06b0624b89b7e5a47872fb4aa089a877
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107085
+  packageName: ROS#
+  packageVersion: 2.1.0
+  assetPath: Assets/ROS# Project Team/ROS#/Editor/siemens.ros-sharp.Editor.asmdef
+  uploadId: 725952

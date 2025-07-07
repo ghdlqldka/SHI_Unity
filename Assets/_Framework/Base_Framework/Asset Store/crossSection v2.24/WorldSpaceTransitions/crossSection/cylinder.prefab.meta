@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1da1ca3249d671b4d98b51dc7f46e05b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93478
+  packageName: crossSection
+  packageVersion: 2.24
+  assetPath: Assets/WorldSpaceTransitions/crossSection/cylinder.prefab
+  uploadId: 674954

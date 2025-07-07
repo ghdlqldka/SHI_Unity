@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 06a6a8ffe1d2bb94392c35866a61a7de
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/Demos/VideoExtrude/Scenes/scene_VideoDepthExtrudeSettings.lighting
+  uploadId: 755443

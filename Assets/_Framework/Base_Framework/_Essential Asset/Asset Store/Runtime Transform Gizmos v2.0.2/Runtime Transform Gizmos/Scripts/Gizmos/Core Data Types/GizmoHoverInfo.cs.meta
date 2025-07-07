@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: ef39bb724739a6e4ba7f224828f5f47f
+timeCreated: 1497359097
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 125537
+  packageName: Runtime Transform Gizmos
+  packageVersion: 2.0.2
+  assetPath: Assets/Runtime Transform Gizmos/Scripts/Gizmos/Core Data Types/GizmoHoverInfo.cs
+  uploadId: 733781

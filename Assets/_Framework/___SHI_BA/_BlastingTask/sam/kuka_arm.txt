@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<robot name="kuka_arm_separate"> <link name="kuka_arm_world">
+    </link>
+   
+    <joint name="kuka1_joint" type="revolute">
+        <origin rpy="0 0 0" xyz="0 0 -0.018"/>         <parent link="kuka_arm_world"/>              <child link="kuka1"/>
+        <axis xyz="0 0 1"/>
+        <limit effort="10" lower="-3.14" upper="+3.14" velocity="3.14"/>
+    </joint>
+    <link name="kuka1">
+      <visual><geometry><mesh filename="../meshes/visual/kuka1.dae" /></geometry></visual>
+      <collision><geometry><mesh filename="../meshes/collision/kuka1.stl" /></geometry></collision>
+      <inertial><origin rpy="0 0 0" xyz="0 0 0"/><mass value="0.01"/><inertia ixx="0.002706437" ixy="0.000011205" ixz="-0.000008016" iyy="0.002153592" iyz="0.000141528" izz="0.002712272"/></inertial>
+    </link>
+
+    <joint name="kuka2_joint" type="revolute">
+        <origin rpy="0 1.57 0" xyz="-0.0175 -0.01165 -0.0395"/>
+        <parent link="kuka1"/>
+        <child link="kuka2"/>
+        <axis xyz="0 1 0"/>
+        <limit effort="10" lower="-1.05" upper="3.05" velocity="3.14"/>
+    </joint>
+    <link name="kuka2">
+      <visual><geometry><mesh filename="../meshes/visual/kuka2.dae" /></geometry></visual>
+      <collision><geometry><mesh filename="../meshes/collision/kuka2.stl" /></geometry></collision>
+      <inertial><origin rpy="0 0 0" xyz="0 0 0"/><mass value="0.01"/><inertia ixx="0.002706437" ixy="0.000011205" ixz="-0.000008016" iyy="0.002153592" iyz="0.000141528" izz="0.002712272"/></inertial>
+    </link>
+
+    <joint name="kuka3_joint" type="revolute">
+        <origin rpy="0 -1.57 0" xyz="0 -0.0063 -0.089"/>
+        <parent link="kuka2"/>
+        <child link="kuka3"/>
+        <axis xyz="0 1 0"/>
+        <limit effort="10" lower="-2.88" upper="2.09" velocity="3.14"/>
+    </joint>
+    <link name="kuka3">
+      <visual><geometry><mesh filename="../meshes/visual/kuka3.dae" /></geometry></visual>
+      <collision><geometry><mesh filename="../meshes/collision/kuka3.stl" /></geometry></collision>
+      <inertial><origin rpy="0 0 0" xyz="0 0 0"/><mass value="0.01"/><inertia ixx="0.002706437" ixy="0.000011205" ixz="-0.000008016" iyy="0.002153592" iyz="0.000141528" izz="0.002712272"/></inertial>
+    </link>
+
+    <joint name="kuka4_joint" type="revolute">
+        <origin rpy="0 0 0" xyz="-0.034675 0.01795 -0.005"/>
+        <parent link="kuka3"/>
+        <child link="kuka4"/>
+        <axis xyz="1 0 0"/>
+        <limit effort="10" lower="-3.14" upper="3.14" velocity="3.14"/>
+    </joint>py
+    <link name="kuka4">
+      <visual><geometry><mesh filename="../meshes/visual/kuka4.dae" /></geometry></visual>
+      <collision><geometry><mesh filename="../meshes/collision/kuka4.stl" /></geometry></collision>
+      <inertial><origin rpy="0 0 0" xyz="0 0 0"/><mass value="0.01"/><inertia ixx="0.002706437" ixy="0.000011205" ixz="-0.000008016" iyy="0.002153592" iyz="0.000141528" izz="0.002712272"/></inertial>
+    </link>
+
+    <joint name="kuka5_joint" type="revolute">
+        <origin rpy="0 0 0" xyz="-0.06882 0.0022 0"/>
+        <parent link="kuka4"/>
+        <child link="kuka5"/>
+        <axis xyz="0 1 0"/>
+    	<limit effort="10" lower="-2.18" upper="+2.18" velocity="3.14"/>
+    </joint>
+    <link name="kuka5">
+      <visual><geometry><mesh filename="../meshes/visual/kuka5.dae" /></geometry></visual>
+      <collision><geometry><mesh filename="../meshes/collision/kuka5.stl" /></geometry></collision>
+      <inertial><origin rpy="0 0 0" xyz="0 0 0"/><mass value="0.01"/><inertia ixx="0.002706437" ixy="0.000011205" ixz="-0.000008016" iyy="0.002153592" iyz="0.000141528" izz="0.002712272"/></inertial>
+    </link>
+
+    <joint name="kuka6_joint" type="revolute">
+        <origin rpy="0 0 0" xyz="-0.01545 -0.00216 0.00015"/>
+        <parent link="kuka5"/>
+        <child link="kuka6"/>
+        <axis xyz="1 0 0"/>
+        <limit effort="10" lower="-6.1" upper="6.1" velocity="3.14"/>
+    </joint>
+    <link name="kuka6">
+      <visual><geometry><mesh filename="../meshes/visual/kuka6.dae" /></geometry></visual>
+      <collision><geometry><mesh filename="../meshes/collision/kuka6.stl" /></geometry></collision>
+      <inertial><origin rpy="0 0 0" xyz="0 0 0"/><mass value="0.01"/><inertia ixx="0.002706437" ixy="0.000011205" ixz="-0.000008016" iyy="0.002153592" iyz="0.000141528" izz="0.002712272"/></inertial>
+    </link>
+    
+    <joint name="weaving_joint" type="fixed">
+        <origin rpy="0 0 0" xyz="-0.003 0 0"/>
+        <parent link="kuka6"/>
+        <child link="weaving1"/>
+    </joint>
+    <link name="weaving1">
+      <visual><geometry><mesh filename="../meshes/visual/weaving1.dae" /></geometry></visual>
+      <collision><geometry><mesh filename="../meshes/collision/weaving1.stl" /></geometry></collision>
+      <inertial><origin rpy="0 0 0" xyz="0 0 0"/><mass value="0.01"/><inertia ixx="0.002706437" ixy="0.000011205" ixz="-0.000008016" iyy="0.002153592" iyz="0.000141528" izz="0.002712272"/></inertial>
+    </link>
+
+    <joint name="weaving1_joint" type="fixed">
+        <origin rpy="0 0 0" xyz="-0.0075 0.00016 -0.013032"/>
+        <parent link="weaving1"/>
+        <child link="weaving2"/>
+        <axis xyz="0 0 1"/>
+        <limit effort="10" lower="-2.094" upper="2.094" velocity="3.14"/>
+    </joint>
+    <link name="weaving2">
+      <visual><geometry><mesh filename="../meshes/visual/weaving2.dae" /></geometry></visual>
+      <collision><geometry><mesh filename="../meshes/collision/weaving2.stl" /></geometry></collision>
+      <inertial><origin rpy="0 0 0" xyz="0 0 0"/><mass value="0.01"/><inertia ixx="0.002706437" ixy="0.000011205" ixz="-0.000008016" iyy="0.002153592" iyz="0.000141528" izz="0.002712272"/></inertial>
+    </link>
+
+    <joint name="ee_joint" type="fixed">
+        <origin rpy="0 0 0" xyz="-0.001 -0.001 -0.005"/>
+        <parent link="weaving2"/>
+        <child link="ee"/>
+    </joint>
+    <link name="ee">
+    </link>
+
+</robot>

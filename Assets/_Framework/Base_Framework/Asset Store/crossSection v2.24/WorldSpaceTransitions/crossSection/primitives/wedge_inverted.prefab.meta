@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d84c63b9a62dcc546a30ccde92e98e63
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93478
+  packageName: crossSection
+  packageVersion: 2.24
+  assetPath: Assets/WorldSpaceTransitions/crossSection/primitives/wedge_inverted.prefab
+  uploadId: 674954

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 36b23b7f83565da4c9c6c6e503be89a3
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/Demos/PointCloudViewer/Scenes/WebGL-MeshPointPicking.unity
+  uploadId: 755443

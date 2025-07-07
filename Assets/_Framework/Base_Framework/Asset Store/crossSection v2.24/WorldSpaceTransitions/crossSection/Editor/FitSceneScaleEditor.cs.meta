@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 9ec3cdb0caea7dc4488796a693e8ffa9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93478
+  packageName: crossSection
+  packageVersion: 2.24
+  assetPath: Assets/WorldSpaceTransitions/crossSection/Editor/FitSceneScaleEditor.cs
+  uploadId: 674954

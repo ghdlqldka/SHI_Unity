@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 7c3de4b21500486499d52519baa9b040
+timeCreated: 1510573685
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 106482
+  packageName: IK Constructor
+  packageVersion: 1.0
+  assetPath: Assets/IKConstructor/Scripts/Core/IKUtility.cs
+  uploadId: 218241

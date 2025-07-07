@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 9c9c40a5262f23c46be31a393dc8c966
+timeCreated: 1435965666
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/Demos/PushVertices/Scripts/vertexDisplaceUpdater.cs
+  uploadId: 755443

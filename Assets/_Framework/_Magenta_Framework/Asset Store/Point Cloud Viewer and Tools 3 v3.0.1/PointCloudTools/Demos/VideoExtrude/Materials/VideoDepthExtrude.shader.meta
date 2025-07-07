@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: bc95be3739407244fb395f4fc0c8794e
+timeCreated: 1428187573
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/Demos/VideoExtrude/Materials/VideoDepthExtrude.shader
+  uploadId: 755443

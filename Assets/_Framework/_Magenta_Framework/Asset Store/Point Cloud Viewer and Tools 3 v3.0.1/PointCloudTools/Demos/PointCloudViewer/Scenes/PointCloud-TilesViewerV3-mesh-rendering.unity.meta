@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9564e3b33311f564282695cabce2eadd
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/Demos/PointCloudViewer/Scenes/PointCloud-TilesViewerV3-mesh-rendering.unity
+  uploadId: 755443

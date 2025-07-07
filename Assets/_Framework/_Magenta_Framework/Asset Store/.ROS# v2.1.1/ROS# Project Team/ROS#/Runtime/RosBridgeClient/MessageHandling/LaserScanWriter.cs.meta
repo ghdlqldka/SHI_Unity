@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: bbbe1548a4173d143b23ad7c4efa0ae4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107085
+  packageName: ROS#
+  packageVersion: 2.1.0
+  assetPath: Assets/ROS# Project Team/ROS#/Runtime/RosBridgeClient/MessageHandling/LaserScanWriter.cs
+  uploadId: 725952

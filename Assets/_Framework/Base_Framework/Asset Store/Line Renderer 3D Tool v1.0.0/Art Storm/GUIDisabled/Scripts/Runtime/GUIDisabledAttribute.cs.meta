@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 97f77facbb1440e4da38adfb5a244373
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270994
+  packageName: Line Renderer 3D Tool
+  packageVersion: 1.0.0
+  assetPath: Assets/Art Storm/GUIDisabled/Scripts/Runtime/GUIDisabledAttribute.cs
+  uploadId: 634696

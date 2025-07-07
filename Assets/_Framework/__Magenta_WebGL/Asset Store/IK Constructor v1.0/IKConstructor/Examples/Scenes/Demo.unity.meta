@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 352fa34ae9f4a9b41896c63beeffc74e
+timeCreated: 1512942010
+licenseType: Store
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 106482
+  packageName: IK Constructor
+  packageVersion: 1.0
+  assetPath: Assets/IKConstructor/Examples/Scenes/Demo.unity
+  uploadId: 218241

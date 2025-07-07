@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: fddf822c71e0e0a43ab6c18913a4f723
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/Shaders/Metal/Metal-Uber.shader
+  uploadId: 755443

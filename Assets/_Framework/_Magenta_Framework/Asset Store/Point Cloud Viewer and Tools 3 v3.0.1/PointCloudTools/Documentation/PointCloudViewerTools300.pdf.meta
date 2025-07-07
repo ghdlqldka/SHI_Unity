@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1a4d8cb7169f6d94cbd1a1de97ff9c14
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/Documentation/PointCloudViewerTools300.pdf
+  uploadId: 755443

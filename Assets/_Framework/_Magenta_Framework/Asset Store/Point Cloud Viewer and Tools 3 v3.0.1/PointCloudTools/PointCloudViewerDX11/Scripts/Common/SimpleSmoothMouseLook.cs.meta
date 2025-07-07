@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 89851f37d191dbf48b08675e84258dbd
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/PointCloudViewerDX11/Scripts/Common/SimpleSmoothMouseLook.cs
+  uploadId: 755443

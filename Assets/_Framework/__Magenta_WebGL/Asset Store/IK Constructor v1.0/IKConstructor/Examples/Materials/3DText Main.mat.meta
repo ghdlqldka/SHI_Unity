@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 33b80b25b8b08ed4592e8c6047da40af
+timeCreated: 1512942019
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 106482
+  packageName: IK Constructor
+  packageVersion: 1.0
+  assetPath: Assets/IKConstructor/Examples/Materials/3DText Main.mat
+  uploadId: 218241

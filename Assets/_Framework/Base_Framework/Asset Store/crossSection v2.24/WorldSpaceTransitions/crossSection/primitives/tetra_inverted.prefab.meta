@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 845c740c71876b54b8aad89887a31d42
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93478
+  packageName: crossSection
+  packageVersion: 2.24
+  assetPath: Assets/WorldSpaceTransitions/crossSection/primitives/tetra_inverted.prefab
+  uploadId: 674954

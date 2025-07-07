@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 07cb2239fa7b28b409dd8e2945224a9e
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/Materials/DX11/PointCloudColorAlphaDX11.mat
+  uploadId: 755443

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 055fa62b60ca81e4ab4cb32d1c7cce14
+timeCreated: 1523255224
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/Shaders/Utility/VertexLitShadowPass.shader
+  uploadId: 755443

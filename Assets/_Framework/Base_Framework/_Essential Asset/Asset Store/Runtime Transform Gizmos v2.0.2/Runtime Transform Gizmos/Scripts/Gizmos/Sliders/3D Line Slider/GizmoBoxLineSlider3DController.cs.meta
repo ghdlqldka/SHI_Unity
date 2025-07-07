@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 462da4d5d2d430249b5b4ba2cece7a5d
+timeCreated: 1515955450
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 125537
+  packageName: Runtime Transform Gizmos
+  packageVersion: 2.0.2
+  assetPath: Assets/Runtime Transform Gizmos/Scripts/Gizmos/Sliders/3D Line Slider/GizmoBoxLineSlider3DController.cs
+  uploadId: 733781

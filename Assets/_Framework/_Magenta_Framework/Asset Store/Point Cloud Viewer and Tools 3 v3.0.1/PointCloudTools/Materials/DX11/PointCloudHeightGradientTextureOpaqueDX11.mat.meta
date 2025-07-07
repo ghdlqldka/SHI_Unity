@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9a6f3fcdebd9e5a4589cf3e988970920
+timeCreated: 1494578275
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/Materials/DX11/PointCloudHeightGradientTextureOpaqueDX11.mat
+  uploadId: 755443

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: cfe59be13636edd48b7a3de079faa8da
+timeCreated: 1434667180
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/Shaders/Mesh/Extras/VertexAndLight.shader
+  uploadId: 755443

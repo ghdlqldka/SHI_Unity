@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 0a5f06d75ab913a4b852ecbd4c6b3f45
+timeCreated: 1512942016
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 106482
+  packageName: IK Constructor
+  packageVersion: 1.0
+  assetPath: Assets/IKConstructor/Examples/Materials/Gears.mat
+  uploadId: 218241

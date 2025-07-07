@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: d1fb12063b0bb1d4082599f887994add
+timeCreated: 1508869798
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 125537
+  packageName: Runtime Transform Gizmos
+  packageVersion: 2.0.2
+  assetPath: Assets/Runtime Transform Gizmos/Scripts/Runtime Package Common/Editor
+    UI/EditorToolbarTab.cs
+  uploadId: 733781

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: f67ac46a3b287fb4e9b675411b549916
+timeCreated: 1520339272
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 125537
+  packageName: Runtime Transform Gizmos
+  packageVersion: 2.0.2
+  assetPath: Assets/Runtime Transform Gizmos/Scripts/Gizmos/GizmoEngineSettings.cs
+  uploadId: 733781

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4085d699f7398484682f8fb1f6e90345
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93478
+  packageName: crossSection
+  packageVersion: 2.24
+  assetPath: Assets/WorldSpaceTransitions/crossSection/MathGeoLib.Exports.v0.1/binaries/x64/Release/MathGeoLib.Exports.lib
+  uploadId: 674954

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 76783a2b658d7554c8385c4f93cd072a
+timeCreated: 1521888527
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/Materials/DX11/PointCloudColorSizeDX11v2-maxdist.mat
+  uploadId: 755443

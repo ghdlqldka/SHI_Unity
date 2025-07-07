@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c3db3cbbf4ccb3e4296418ef2c174c27
+timeCreated: 1435500382
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/Shaders/DX11/PointCloudColorSizeWEBGL.shader
+  uploadId: 755443

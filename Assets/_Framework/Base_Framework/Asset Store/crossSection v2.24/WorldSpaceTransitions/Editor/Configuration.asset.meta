@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1e021e00c0bd7b1458eb4fb7c75d00cb
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93478
+  packageName: crossSection
+  packageVersion: 2.24
+  assetPath: Assets/WorldSpaceTransitions/Editor/Configuration.asset
+  uploadId: 674954

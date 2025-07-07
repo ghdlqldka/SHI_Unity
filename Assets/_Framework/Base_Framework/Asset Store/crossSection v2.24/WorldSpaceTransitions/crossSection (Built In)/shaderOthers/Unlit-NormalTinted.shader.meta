@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 93d74ffa4b1bbee44a2e09c627d42581
+timeCreated: 1497508503
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93478
+  packageName: crossSection
+  packageVersion: 2.24
+  assetPath: Assets/WorldSpaceTransitions/crossSection (Built In)/shaderOthers/Unlit-NormalTinted.shader
+  uploadId: 674954

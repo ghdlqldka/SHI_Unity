@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ad31b77618781e447bc0c5abdfdbb6fb
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/PointCloudViewerDX11/Prefabs/MeshTemplatePrefabV3.prefab
+  uploadId: 755443

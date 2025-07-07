@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 37588789a4935b448879d76cca2fb3e9
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/PointCloudViewerDX11/Scripts/PointCloudViewerDX11.cs
+  uploadId: 755443

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5e31429e57c9ae642b0abbf75c8b3c37
+timeCreated: 1494667719
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/Materials/Mesh/MeshPointsDX11QuadCircle-Packed.mat
+  uploadId: 755443

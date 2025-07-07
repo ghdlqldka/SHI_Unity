@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f05584e4424fa3f45a3c875dcff05885
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/Materials/Utility/SelectionAreaMeshOutline.mat
+  uploadId: 755443

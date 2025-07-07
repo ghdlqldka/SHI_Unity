@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6b7fd2240f88eb345aba6b0107d830f1
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/PointCloudViewerDX11/Scripts/Structs/PeekHeaderData.cs
+  uploadId: 755443

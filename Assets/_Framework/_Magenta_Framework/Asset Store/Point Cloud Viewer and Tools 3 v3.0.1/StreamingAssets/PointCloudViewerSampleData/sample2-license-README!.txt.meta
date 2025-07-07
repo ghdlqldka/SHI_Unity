@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 21f20a1f715edc44eaa479f9dbb4ed5e
+TextScriptImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/StreamingAssets/PointCloudViewerSampleData/sample2-license-README!.txt
+  uploadId: 755443

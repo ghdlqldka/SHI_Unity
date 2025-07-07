@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 82e1b1e9635a1bf47bb3eb55cc67050d
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35666
+  packageName: Lean Pool
+  packageVersion: 2.1.0
+  assetPath: Assets/Plugins/CW/Shared/Common/Examples/Fonts/VarelaRound-Regular.txt
+  uploadId: 653650

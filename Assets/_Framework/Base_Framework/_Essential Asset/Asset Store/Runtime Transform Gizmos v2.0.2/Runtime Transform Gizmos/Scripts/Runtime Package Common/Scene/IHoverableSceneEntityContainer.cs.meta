@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: bf19a48e4f4c7ee4c81b037a19062575
+timeCreated: 1497806310
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 125537
+  packageName: Runtime Transform Gizmos
+  packageVersion: 2.0.2
+  assetPath: Assets/Runtime Transform Gizmos/Scripts/Runtime Package Common/Scene/IHoverableSceneEntityContainer.cs
+  uploadId: 733781

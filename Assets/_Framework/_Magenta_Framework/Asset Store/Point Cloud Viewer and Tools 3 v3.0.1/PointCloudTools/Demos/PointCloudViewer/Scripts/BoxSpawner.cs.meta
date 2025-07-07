@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 1136f6280a86a6e4384fe619f2016097
+timeCreated: 1538897274
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/Demos/PointCloudViewer/Scripts/BoxSpawner.cs
+  uploadId: 755443

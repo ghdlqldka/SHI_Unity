@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 40f6549172ed6464396620adba073719
+timeCreated: 1519220321
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 125537
+  packageName: Runtime Transform Gizmos
+  packageVersion: 2.0.2
+  assetPath: Assets/Runtime Transform Gizmos/Scripts/Runtime Package Common/Shapes/Shape2DExtentPoint.cs
+  uploadId: 733781

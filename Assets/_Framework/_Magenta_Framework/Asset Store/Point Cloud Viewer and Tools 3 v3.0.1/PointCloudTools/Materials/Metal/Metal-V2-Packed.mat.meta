@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8cbcb779262470a45bb761a042b5c13f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/Materials/Metal/Metal-V2-Packed.mat
+  uploadId: 755443

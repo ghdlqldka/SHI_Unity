@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: dbeb0085081a427448228d0ce63f35cb
+timeCreated: 1541571860
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/PointCloudViewerDX11/Scripts/Common/dev/MobileSyncCamera.cs
+  uploadId: 755443

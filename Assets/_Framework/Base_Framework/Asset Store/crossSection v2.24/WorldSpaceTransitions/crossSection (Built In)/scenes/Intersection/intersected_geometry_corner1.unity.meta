@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 49d819449e5af9a43b59fdbc81cb670c
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93478
+  packageName: crossSection
+  packageVersion: 2.24
+  assetPath: Assets/WorldSpaceTransitions/crossSection (Built In)/scenes/Intersection/intersected_geometry_corner1.unity
+  uploadId: 674954

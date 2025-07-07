@@ -1,0 +1,17 @@
+{
+    "name": "EA.LineRenderer3D",
+    "rootNamespace": "",
+    "references": [
+        "GUID:a661fc324027ce942846e7e2d637cbd6",
+        "GUID:0038228b3c8ef1244b4846b302799462"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

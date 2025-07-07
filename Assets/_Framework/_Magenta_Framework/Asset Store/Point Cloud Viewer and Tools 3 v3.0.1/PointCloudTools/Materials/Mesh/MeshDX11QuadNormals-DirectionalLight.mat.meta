@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: dc0b982f24aa006498ce3263d389296f
+NativeFormatImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/Materials/Mesh/MeshDX11QuadNormals-DirectionalLight.mat
+  uploadId: 755443

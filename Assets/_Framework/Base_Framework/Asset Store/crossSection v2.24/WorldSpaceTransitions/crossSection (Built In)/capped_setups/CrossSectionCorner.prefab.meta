@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ba968d167a2fe5440ae2393ada55ba9f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93478
+  packageName: crossSection
+  packageVersion: 2.24
+  assetPath: Assets/WorldSpaceTransitions/crossSection (Built In)/capped_setups/CrossSectionCorner.prefab
+  uploadId: 674954

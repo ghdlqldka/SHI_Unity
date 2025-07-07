@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: d2d249fd9a18fd8409fbf4f6d9f907b5
+timeCreated: 1512328638
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 125537
+  packageName: Runtime Transform Gizmos
+  packageVersion: 2.0.2
+  assetPath: Assets/Runtime Transform Gizmos/Scripts/Runtime Package Common/Math/Primitive
+    Math/PolygonMath.cs
+  uploadId: 733781

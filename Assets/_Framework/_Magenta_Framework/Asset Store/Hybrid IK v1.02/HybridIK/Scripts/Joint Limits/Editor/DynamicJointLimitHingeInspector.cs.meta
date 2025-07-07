@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: be8d162414d22194399e23501b403f03
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 174069
+  packageName: Hybrid IK
+  packageVersion: 1.02
+  assetPath: Assets/HybridIK/Scripts/Joint Limits/Editor/DynamicJointLimitHingeInspector.cs
+  uploadId: 532533

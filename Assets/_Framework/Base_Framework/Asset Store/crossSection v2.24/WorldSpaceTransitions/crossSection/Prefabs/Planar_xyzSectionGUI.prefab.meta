@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3675ca217d9dcf845aaa22aa83282344
+timeCreated: 1453151516
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93478
+  packageName: crossSection
+  packageVersion: 2.24
+  assetPath: Assets/WorldSpaceTransitions/crossSection/Prefabs/Planar_xyzSectionGUI.prefab
+  uploadId: 674954

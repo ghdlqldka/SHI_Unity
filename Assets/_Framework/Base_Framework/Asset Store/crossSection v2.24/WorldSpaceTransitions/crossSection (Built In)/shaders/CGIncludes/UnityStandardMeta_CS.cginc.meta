@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: abb2140bf35e04f4490d9099d6c340e3
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93478
+  packageName: crossSection
+  packageVersion: 2.24
+  assetPath: Assets/WorldSpaceTransitions/crossSection (Built In)/shaders/CGIncludes/UnityStandardMeta_CS.cginc
+  uploadId: 674954

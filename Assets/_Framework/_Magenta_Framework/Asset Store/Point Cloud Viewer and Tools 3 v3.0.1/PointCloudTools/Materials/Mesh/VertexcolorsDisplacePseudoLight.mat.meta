@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ee21bd2f0175df9419736c95518cda80
+timeCreated: 1435965530
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/Materials/Mesh/VertexcolorsDisplacePseudoLight.mat
+  uploadId: 755443

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 14b3b2ea7b7969a45b187a01dcb1deee
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 107085
+  packageName: ROS#
+  packageVersion: 2.1.0
+  assetPath: Assets/ROS# Project Team/ROS#/Editor/RosBridgeClient/UrdfTransfer/TransferFromRosHandler.cs
+  uploadId: 725952

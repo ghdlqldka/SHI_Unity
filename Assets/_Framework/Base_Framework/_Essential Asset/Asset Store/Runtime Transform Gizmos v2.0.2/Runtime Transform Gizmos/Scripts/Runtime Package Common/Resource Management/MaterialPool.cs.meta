@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 99c79c2bb5e561f419dc38c429488a5d
+timeCreated: 1485866373
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 125537
+  packageName: Runtime Transform Gizmos
+  packageVersion: 2.0.2
+  assetPath: Assets/Runtime Transform Gizmos/Scripts/Runtime Package Common/Resource
+    Management/MaterialPool.cs
+  uploadId: 733781

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ea3c12f85a60cbb45be00eb2c70f2aff
+timeCreated: 1514876723
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93478
+  packageName: crossSection
+  packageVersion: 2.24
+  assetPath: Assets/WorldSpaceTransitions/crossSection (Built In)/scenes/Intersection/intersected_2.mat
+  uploadId: 674954

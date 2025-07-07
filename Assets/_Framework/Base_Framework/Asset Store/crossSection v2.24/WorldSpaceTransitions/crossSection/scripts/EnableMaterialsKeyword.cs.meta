@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: cb1449411ffaae248b2aa5e2066b8838
+timeCreated: 1458468602
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93478
+  packageName: crossSection
+  packageVersion: 2.24
+  assetPath: Assets/WorldSpaceTransitions/crossSection/scripts/EnableMaterialsKeyword.cs
+  uploadId: 674954

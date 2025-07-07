@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e6b8ead22220db44091ef721f1a30da5
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93478
+  packageName: crossSection
+  packageVersion: 2.24
+  assetPath: Assets/WorldSpaceTransitions/crossSection (Built In)/shaders/GlassStainedCapPrepare.shader
+  uploadId: 674954

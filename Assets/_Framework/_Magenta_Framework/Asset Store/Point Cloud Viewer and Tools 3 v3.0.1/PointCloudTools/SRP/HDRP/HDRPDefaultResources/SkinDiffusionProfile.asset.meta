@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0817586290442754fb11ef889226bb30
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/SRP/HDRP/HDRPDefaultResources/SkinDiffusionProfile.asset
+  uploadId: 755443

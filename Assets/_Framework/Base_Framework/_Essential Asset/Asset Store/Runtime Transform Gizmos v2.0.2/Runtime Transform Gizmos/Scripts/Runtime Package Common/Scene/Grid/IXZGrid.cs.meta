@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: a5c5573ce6b730b4da8f9468f8e76b11
+timeCreated: 1514494925
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 125537
+  packageName: Runtime Transform Gizmos
+  packageVersion: 2.0.2
+  assetPath: Assets/Runtime Transform Gizmos/Scripts/Runtime Package Common/Scene/Grid/IXZGrid.cs
+  uploadId: 733781

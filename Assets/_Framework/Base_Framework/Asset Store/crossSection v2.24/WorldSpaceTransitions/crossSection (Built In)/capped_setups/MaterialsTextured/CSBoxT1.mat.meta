@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0e4c54b649ca2db409b2086c168e87f1
+timeCreated: 1486510427
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93478
+  packageName: crossSection
+  packageVersion: 2.24
+  assetPath: Assets/WorldSpaceTransitions/crossSection (Built In)/capped_setups/MaterialsTextured/CSBoxT1.mat
+  uploadId: 674954

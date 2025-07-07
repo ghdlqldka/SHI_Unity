@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: c8c6a3159e8051046bf5b89cc2a51fd7
+timeCreated: 1520004938
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 125537
+  packageName: Runtime Transform Gizmos
+  packageVersion: 2.0.2
+  assetPath: Assets/Runtime Transform Gizmos/Scripts/Gizmos/Sliders/Borders/2D Polygon/GizmoPolygon2DBorderControllerData.cs
+  uploadId: 733781

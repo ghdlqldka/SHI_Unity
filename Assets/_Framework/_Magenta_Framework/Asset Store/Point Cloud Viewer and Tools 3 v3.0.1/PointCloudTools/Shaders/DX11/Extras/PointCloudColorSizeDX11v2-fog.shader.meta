@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 08abf9faf43d5e04fbe6239605401f6d
+timeCreated: 1521257403
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/Shaders/DX11/Extras/PointCloudColorSizeDX11v2-fog.shader
+  uploadId: 755443

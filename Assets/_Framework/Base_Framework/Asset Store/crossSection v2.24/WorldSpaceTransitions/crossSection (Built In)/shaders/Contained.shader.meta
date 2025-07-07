@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 02deef4f6d28aa0478c4ea4c83e6fe74
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93478
+  packageName: crossSection
+  packageVersion: 2.24
+  assetPath: Assets/WorldSpaceTransitions/crossSection (Built In)/shaders/Contained.shader
+  uploadId: 674954

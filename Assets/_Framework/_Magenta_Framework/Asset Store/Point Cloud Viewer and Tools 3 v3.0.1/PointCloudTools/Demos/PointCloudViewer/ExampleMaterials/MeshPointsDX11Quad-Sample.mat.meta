@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8961e423d80089d45b327b9f0ab8b3e6
+timeCreated: 1448828535
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/Demos/PointCloudViewer/ExampleMaterials/MeshPointsDX11Quad-Sample.mat
+  uploadId: 755443

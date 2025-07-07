@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 08d8fe755eed06c4fbbe266596fb2e98
+timeCreated: 1554524255
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35666
+  packageName: Lean Pool
+  packageVersion: 2.1.0
+  assetPath: Assets/Plugins/CW/Shared/Common/Examples/Materials/Grid.mat
+  uploadId: 653650

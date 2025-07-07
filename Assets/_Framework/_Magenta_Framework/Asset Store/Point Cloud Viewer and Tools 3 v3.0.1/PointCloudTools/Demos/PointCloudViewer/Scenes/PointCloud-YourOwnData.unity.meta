@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1b4fd608dbfc1734da3233611ee02174
+timeCreated: 1506937142
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/Demos/PointCloudViewer/Scenes/PointCloud-YourOwnData.unity
+  uploadId: 755443

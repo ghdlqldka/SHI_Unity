@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e9017f1b0d73f674fb9a1f3e7a4922d2
+timeCreated: 1494399736
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/Shaders/DX11/PointCloud-DX11-UberVR-SinglePass-Packed.shader
+  uploadId: 755443

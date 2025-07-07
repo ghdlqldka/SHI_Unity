@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7e8c4d6332531874c872664312b7a5e1
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/Demos/PointCloudViewer/Scenes/PointCloud-runtime-laz-commandline-workaround.unity
+  uploadId: 755443

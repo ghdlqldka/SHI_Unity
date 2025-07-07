@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f04b2d3504debc34394c8ab433d43e4a
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/Demos/PointCloudViewer/Scenes/PointCloud-TilesViewerV3.unity
+  uploadId: 755443

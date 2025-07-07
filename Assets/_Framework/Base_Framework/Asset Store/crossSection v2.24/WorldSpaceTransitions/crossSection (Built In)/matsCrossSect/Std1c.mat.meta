@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fc22c189a9576a844a0db1e420d4b897
+timeCreated: 1453330442
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93478
+  packageName: crossSection
+  packageVersion: 2.24
+  assetPath: Assets/WorldSpaceTransitions/crossSection (Built In)/matsCrossSect/Std1c.mat
+  uploadId: 674954

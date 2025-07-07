@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 1c5e097e5c1e65940b4799014a2eecb5
+timeCreated: 1504354497
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 125537
+  packageName: Runtime Transform Gizmos
+  packageVersion: 2.0.2
+  assetPath: Assets/Runtime Transform Gizmos/Scripts/Gizmos/Transform Gizmos/Rotation
+    Gizmo/RotationGizmo.cs
+  uploadId: 733781

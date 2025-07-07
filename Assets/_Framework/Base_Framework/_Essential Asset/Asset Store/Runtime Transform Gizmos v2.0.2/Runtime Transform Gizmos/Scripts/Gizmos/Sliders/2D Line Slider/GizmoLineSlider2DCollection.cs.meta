@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 73c3f1bfe0614234b9d159b04a42a8ad
+timeCreated: 1518546817
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 125537
+  packageName: Runtime Transform Gizmos
+  packageVersion: 2.0.2
+  assetPath: Assets/Runtime Transform Gizmos/Scripts/Gizmos/Sliders/2D Line Slider/GizmoLineSlider2DCollection.cs
+  uploadId: 733781

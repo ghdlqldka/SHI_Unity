@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 67f6080d8fc72274a9f2dd52b6b1b19a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93478
+  packageName: crossSection
+  packageVersion: 2.24
+  assetPath: Assets/WorldSpaceTransitions/AdvancedGizmo/Materials/Gizmo_Ya.mat
+  uploadId: 674954

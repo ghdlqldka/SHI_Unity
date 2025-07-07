@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c32e6526937c20b4f98bc2cf30f9c53d
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93478
+  packageName: crossSection
+  packageVersion: 2.24
+  assetPath: Assets/WorldSpaceTransitions/crossSection (Built In)/templateScenes/planar_xyz_template.unity
+  uploadId: 674954

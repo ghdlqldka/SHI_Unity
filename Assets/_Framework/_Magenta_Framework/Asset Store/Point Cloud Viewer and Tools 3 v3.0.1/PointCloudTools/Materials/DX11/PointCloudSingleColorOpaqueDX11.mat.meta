@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e845cc3ffaf6e1c4d9518c8721f90075
+timeCreated: 1494578275
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/Materials/DX11/PointCloudSingleColorOpaqueDX11.mat
+  uploadId: 755443

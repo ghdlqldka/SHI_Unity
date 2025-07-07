@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f1761bb128ab15441a593b87ab8954c3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/Materials/DX11/VR/PointCloudColorDX11-SinglePassInstanced.mat
+  uploadId: 755443

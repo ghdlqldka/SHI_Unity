@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ffdb3abf6ff8a2f40bc373acc385ade4
+timeCreated: 1459593950
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/Shaders/Mesh/MeshPointsDX11QuadOffset-Shadows-Fog.shader
+  uploadId: 755443

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1b490282ea67ad846ba54fedaa9d6d5e
+timeCreated: 1486510427
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93478
+  packageName: crossSection
+  packageVersion: 2.24
+  assetPath: Assets/WorldSpaceTransitions/crossSection (Built In)/capped_setups/materials/CSCorner0.mat
+  uploadId: 674954

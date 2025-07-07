@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 68b98b54e8f5e5a40ae6e35a61da61f4
+timeCreated: 1519306381
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 125537
+  packageName: Runtime Transform Gizmos
+  packageVersion: 2.0.2
+  assetPath: Assets/Runtime Transform Gizmos/Scripts/Gizmos/Sliders/3D Plane Slider/GizmoRATriangle3DBorderType.cs
+  uploadId: 733781

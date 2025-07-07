@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 02f2ae28c6c16d0488380de0811b81da
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270994
+  packageName: Line Renderer 3D Tool
+  packageVersion: 1.0.0
+  assetPath: Assets/Art Storm/Helpers/Scripts/Runtime/EnumHelper.cs
+  uploadId: 634696

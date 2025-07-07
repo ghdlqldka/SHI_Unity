@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 9483030353433324b93f257063ce60a5
+timeCreated: 1520428849
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 125537
+  packageName: Runtime Transform Gizmos
+  packageVersion: 2.0.2
+  assetPath: Assets/Runtime Transform Gizmos/Scripts/Runtime Package Common/Meshes/Data
+    Management/MeshTransform.cs
+  uploadId: 733781

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c2e4dfa6a14607c4eb8e3a1441c4901b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93478
+  packageName: crossSection
+  packageVersion: 2.24
+  assetPath: Assets/WorldSpaceTransitions/crossSection (Built In)/templateScenes/skybox.mat
+  uploadId: 674954

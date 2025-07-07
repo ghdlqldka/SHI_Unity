@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: eec5e7634c840f4489ad5ad5e294f0b1
+timeCreated: 1495028038
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 125537
+  packageName: Runtime Transform Gizmos
+  packageVersion: 2.0.2
+  assetPath: Assets/Runtime Transform Gizmos/Scripts/Runtime Package Common/Resources/Shaders/RTApp_XZGrid_Plane.shader
+  uploadId: 733781

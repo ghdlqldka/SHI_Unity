@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8ccbb9d3b50a53241bfa9b036d263b14
+timeCreated: 1501309486
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93478
+  packageName: crossSection
+  packageVersion: 2.24
+  assetPath: Assets/WorldSpaceTransitions/crossSection (Built In)/materials1/SurfaceMaterialBlue.mat
+  uploadId: 674954

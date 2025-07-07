@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: d76cf9cc32975a44cbaa72bee1585496
+timeCreated: 1515155327
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 25800000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93478
+  packageName: crossSection
+  packageVersion: 2.24
+  assetPath: Assets/WorldSpaceTransitions/crossSection (Built In)/scenes/sphere_section/LightingData.asset
+  uploadId: 674954

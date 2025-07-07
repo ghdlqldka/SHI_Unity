@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f3cd62d184e411c419cef2233648cc43
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93478
+  packageName: crossSection
+  packageVersion: 2.24
+  assetPath: Assets/WorldSpaceTransitions/crossSection (Built In)/shaders/Unlit-Color.shader
+  uploadId: 674954

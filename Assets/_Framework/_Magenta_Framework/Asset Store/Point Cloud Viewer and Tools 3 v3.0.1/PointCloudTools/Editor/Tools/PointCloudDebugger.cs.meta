@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e3eba78a523cff2478adaddfd84a0024
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/Editor/Tools/PointCloudDebugger.cs
+  uploadId: 755443

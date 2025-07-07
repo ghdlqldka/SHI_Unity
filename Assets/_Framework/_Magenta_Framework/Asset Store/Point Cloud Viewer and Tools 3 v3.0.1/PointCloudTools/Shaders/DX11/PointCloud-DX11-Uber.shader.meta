@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0d93c174ff21dd741936d61710521593
+timeCreated: 1494399736
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/Shaders/DX11/PointCloud-DX11-Uber.shader
+  uploadId: 755443

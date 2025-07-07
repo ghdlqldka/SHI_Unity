@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 68c609402e49358429456f382491387a
+timeCreated: 1507972580
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/Shaders/DX11/PointCloudFixedColorOpaqueDX11-VR.shader
+  uploadId: 755443

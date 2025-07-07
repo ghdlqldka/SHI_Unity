@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 7bfff3e64c014244eb1555d2438cdf1b
+timeCreated: 1518983755
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 125537
+  packageName: Runtime Transform Gizmos
+  packageVersion: 2.0.2
+  assetPath: Assets/Runtime Transform Gizmos/Scripts/Gizmos/Sliders/Borders/2D Quad/GizmoQuad2DBorderControllerData.cs
+  uploadId: 733781

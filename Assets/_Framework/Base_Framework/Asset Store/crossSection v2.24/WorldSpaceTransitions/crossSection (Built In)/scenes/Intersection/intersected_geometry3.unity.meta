@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5a50ce7e2b7e122499373bb46181207b
+timeCreated: 1437108797
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93478
+  packageName: crossSection
+  packageVersion: 2.24
+  assetPath: Assets/WorldSpaceTransitions/crossSection (Built In)/scenes/Intersection/intersected_geometry3.unity
+  uploadId: 674954

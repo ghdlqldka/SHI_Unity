@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: fda31fc9304bcd249bd1dd406e46868c
+timeCreated: 1520184233
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 125537
+  packageName: Runtime Transform Gizmos
+  packageVersion: 2.0.2
+  assetPath: Assets/Runtime Transform Gizmos/Scripts/Runtime Package Common/Resources/Shaders/RTApp_CylindricalTorusCull.shader
+  uploadId: 733781

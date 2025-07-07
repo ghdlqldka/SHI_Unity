@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8ad4e5d6a250eae4f97d6e33c0ede4f8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/SRP/URP/UniversalRenderPipelineGlobalSettings.asset
+  uploadId: 755443

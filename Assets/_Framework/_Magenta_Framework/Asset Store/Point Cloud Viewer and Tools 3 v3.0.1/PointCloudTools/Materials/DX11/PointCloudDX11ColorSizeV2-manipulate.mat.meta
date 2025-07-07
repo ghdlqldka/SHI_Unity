@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2b9ae96fa798aaa44add4f34c28d2fa0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/Materials/DX11/PointCloudDX11ColorSizeV2-manipulate.mat
+  uploadId: 755443

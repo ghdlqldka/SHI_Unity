@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 91a4e33967cbc984e99fd150f828ca72
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93478
+  packageName: crossSection
+  packageVersion: 2.24
+  assetPath: Assets/WorldSpaceTransitions/crossSection (Built In)/shaders/CGIncludes/standard_CS.cginc
+  uploadId: 674954

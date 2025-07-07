@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 93cff17fa38d70d44b47cbc0031715cf
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93478
+  packageName: crossSection
+  packageVersion: 2.24
+  assetPath: Assets/WorldSpaceTransitions/crossSection/primitives/cone_inverted.prefab
+  uploadId: 674954

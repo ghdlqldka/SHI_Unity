@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a6409d8cc697c36488b434119acbd4af
+timeCreated: 1538897080
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/Demos/PointCloudViewer/Scenes/PointCloud-Collisions.unity
+  uploadId: 755443

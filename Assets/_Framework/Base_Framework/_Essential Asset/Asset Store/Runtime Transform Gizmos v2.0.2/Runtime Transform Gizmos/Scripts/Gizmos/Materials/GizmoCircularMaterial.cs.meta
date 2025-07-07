@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: ca49e30382b363f4688bbb27233cc328
+timeCreated: 1519754335
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 125537
+  packageName: Runtime Transform Gizmos
+  packageVersion: 2.0.2
+  assetPath: Assets/Runtime Transform Gizmos/Scripts/Gizmos/Materials/GizmoCircularMaterial.cs
+  uploadId: 733781

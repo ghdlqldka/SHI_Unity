@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f252852d49b9a44438d2bcfaf14a063d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93478
+  packageName: crossSection
+  packageVersion: 2.24
+  assetPath: Assets/WorldSpaceTransitions/crossSection (Built In)/scenes/pie/LightingData.asset
+  uploadId: 674954

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 9578c1eed4cac9f4cb7931063b63e3b2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 125537
+  packageName: Runtime Transform Gizmos
+  packageVersion: 2.0.2
+  assetPath: Assets/Runtime Transform Gizmos/Scripts/Gizmos/Light Gizmos/PointLightGizmo3DLookAndFeel.cs
+  uploadId: 733781

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f4d18e67185065d4e871e8f6eb899138
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 174069
+  packageName: Hybrid IK
+  packageVersion: 1.02
+  assetPath: Assets/HybridIK/Scripts/Joint Limits/DynamicJointLimit.cs
+  uploadId: 532533

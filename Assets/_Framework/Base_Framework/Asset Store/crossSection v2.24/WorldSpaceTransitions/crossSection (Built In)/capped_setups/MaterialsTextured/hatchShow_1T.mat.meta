@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f5a83c097201ccd4fb40a90a53996ec4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93478
+  packageName: crossSection
+  packageVersion: 2.24
+  assetPath: Assets/WorldSpaceTransitions/crossSection (Built In)/capped_setups/MaterialsTextured/hatchShow_1T.mat
+  uploadId: 674954

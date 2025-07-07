@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a26ef12d9627af84f9e8eb4db95ded87
+timeCreated: 1495118515
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 125537
+  packageName: Runtime Transform Gizmos
+  packageVersion: 2.0.2
+  assetPath: Assets/Runtime Transform Gizmos/Scripts/Runtime Package Common/Resources/Shaders/RTApp_SimpleColor.shader
+  uploadId: 733781

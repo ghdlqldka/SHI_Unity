@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3f273437448c4b8458dc441a5e69bdc1
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/Shaders/UI/UI-UnlitTransparentOcclusion.shader
+  uploadId: 755443

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2f427e240186c7a4d892a26e288b8258
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93478
+  packageName: crossSection
+  packageVersion: 2.24
+  assetPath: Assets/WorldSpaceTransitions/crossSection (Built In)/templateScenes/crossSection_planar_xyz.scenetemplate
+  uploadId: 674954

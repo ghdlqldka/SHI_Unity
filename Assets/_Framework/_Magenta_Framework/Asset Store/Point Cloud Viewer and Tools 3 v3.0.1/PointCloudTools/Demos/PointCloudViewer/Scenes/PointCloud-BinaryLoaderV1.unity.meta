@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 5b7c99de6f9ff9b44a0a9cc60549c556
+DefaultImporter:
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/Demos/PointCloudViewer/Scenes/PointCloud-BinaryLoaderV1.unity
+  uploadId: 755443

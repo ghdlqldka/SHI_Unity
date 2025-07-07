@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2682440b622e2fe46a01105607e1e883
+timeCreated: 1460262163
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93478
+  packageName: crossSection
+  packageVersion: 2.24
+  assetPath: Assets/WorldSpaceTransitions/crossSection (Built In)/shaders/LightmappedBump.shader
+  uploadId: 674954

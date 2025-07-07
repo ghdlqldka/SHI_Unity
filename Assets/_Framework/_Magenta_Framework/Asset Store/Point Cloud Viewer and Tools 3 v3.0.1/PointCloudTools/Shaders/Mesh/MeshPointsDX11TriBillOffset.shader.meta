@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 523ef20ed0dbfdb4e9e3e709f7c8da9d
+timeCreated: 1459594414
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/Shaders/Mesh/MeshPointsDX11TriBillOffset.shader
+  uploadId: 755443

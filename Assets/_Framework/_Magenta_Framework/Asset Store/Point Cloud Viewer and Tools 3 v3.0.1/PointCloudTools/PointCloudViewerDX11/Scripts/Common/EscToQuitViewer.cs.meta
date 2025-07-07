@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: be977a3de3596a547b51e81b52114eb2
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/PointCloudViewerDX11/Scripts/Common/EscToQuitViewer.cs
+  uploadId: 755443

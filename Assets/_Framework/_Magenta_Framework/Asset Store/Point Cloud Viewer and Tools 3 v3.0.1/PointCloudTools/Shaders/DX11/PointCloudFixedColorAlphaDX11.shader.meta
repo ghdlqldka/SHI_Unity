@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d7dfe7a36ee17fd4baa6ab3f0f57bb3a
+timeCreated: 1434056276
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/Shaders/DX11/PointCloudFixedColorAlphaDX11.shader
+  uploadId: 755443

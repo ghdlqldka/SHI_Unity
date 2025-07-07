@@ -1,0 +1,24 @@
+{
+    "name": "AssemblyDefinitionURP",
+    "rootNamespace": "",
+    "references": [
+        "GUID:15fc0a57446b3144c949da3e2b9737a9",
+        "GUID:a1408bb86b7e92f48961c90e0988d665",
+        "GUID:df380645f10b7bc4b97d4f5eb6303d95"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.render-pipelines.universal",
+            "expression": "[10.0,256.0]",
+            "define": "URP_INSTALLED"
+        }
+    ],
+    "noEngineReferences": false
+}

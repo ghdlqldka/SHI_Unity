@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: cbc7146e05a1b5940ab8aebe986666b5
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93478
+  packageName: crossSection
+  packageVersion: 2.24
+  assetPath: Assets/WorldSpaceTransitions/crossSection (Built In)/shaders/TransparentSpecular.shader
+  uploadId: 674954

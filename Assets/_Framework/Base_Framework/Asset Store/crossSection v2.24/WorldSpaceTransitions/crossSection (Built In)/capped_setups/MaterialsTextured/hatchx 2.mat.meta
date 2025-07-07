@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6db6930d0e5c47445b2dfbf7eaaa8ac3
+timeCreated: 1486481254
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93478
+  packageName: crossSection
+  packageVersion: 2.24
+  assetPath: Assets/WorldSpaceTransitions/crossSection (Built In)/capped_setups/MaterialsTextured/hatchx
+    2.mat
+  uploadId: 674954

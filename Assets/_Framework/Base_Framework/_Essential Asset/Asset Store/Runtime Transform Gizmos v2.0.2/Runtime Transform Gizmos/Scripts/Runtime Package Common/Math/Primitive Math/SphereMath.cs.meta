@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 3cfd804082f402e409d7adb6b0ed85d9
+timeCreated: 1511785213
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 125537
+  packageName: Runtime Transform Gizmos
+  packageVersion: 2.0.2
+  assetPath: Assets/Runtime Transform Gizmos/Scripts/Runtime Package Common/Math/Primitive
+    Math/SphereMath.cs
+  uploadId: 733781

@@ -1,0 +1,227 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Motion ID="10000">
+  <Pose ID="1">
+    <Ext>
+      <CorrectionType Type="1" />
+      <PosCmd>
+        <Kuka_Cartesian X="10.6461" Y="20.7660" Z="-1.4782" A="21.00" B="198.94" C="136.33" S="0" T="0" />
+        <Kuka_AxisSpecific A1="-79.1966" A2="-110.0000" A3="90.0000" A4="-42.9864" A5="-30.6207" A6="119.0170" />
+        <Kuka_MovOpt SPD="400.0" ACC="200.0" TIME="0.0" />
+        <Gantry_ExternalAxis E1="8075.8190" E2="7133.1820" E3="5127.5940" />
+        <ROTI_ExternalAxis E4="-180.0000" E5="0.0000" SPD="100.0" ACC="50.0" />
+        <Weaving_ExternalAxis ONOFF="0.0000" ANGLE_MIN="0.0" ANGLE_MAX="0.0" ANGLESPD="0.0" />
+      </PosCmd>
+      <IO_Status MODE="0" PRE_AFTER_FLOW_TIME="0" />
+      <Flags FLAG1="0" FLAG2="0" />
+      <Coordinate SELECT="1" />
+    </Ext>
+  </Pose>
+  <Pose ID="2">
+    <Ext>
+      <CorrectionType Type="1" />
+      <PosCmd>
+        <Kuka_Cartesian X="10.6461" Y="20.7660" Z="-1.4782" A="21.00" B="198.94" C="136.33" S="0" T="0" />
+        <Kuka_AxisSpecific A1="-79.1966" A2="-110.0000" A3="90.0000" A4="-42.9864" A5="-30.6207" A6="119.0170" />
+        <Kuka_MovOpt SPD="400.0" ACC="200.0" TIME="0.0" />
+        <Gantry_ExternalAxis E1="8272.0020" E2="7129.0640" E3="5132.1640" />
+        <ROTI_ExternalAxis E4="-180.0000" E5="0.0000" SPD="100.0" ACC="50.0" />
+        <Weaving_ExternalAxis ONOFF="0.0000" ANGLE_MIN="0.0" ANGLE_MAX="0.0" ANGLESPD="0.0" />
+      </PosCmd>
+      <IO_Status MODE="0" PRE_AFTER_FLOW_TIME="0" />
+      <Flags FLAG1="0" FLAG2="0" />
+      <Coordinate SELECT="1" />
+    </Ext>
+  </Pose>
+  <Pose ID="3">
+    <Ext>
+      <CorrectionType Type="1" />
+      <PosCmd>
+        <Kuka_Cartesian X="10.6461" Y="20.7660" Z="-1.4782" A="21.00" B="198.94" C="136.33" S="0" T="0" />
+        <Kuka_AxisSpecific A1="-79.1966" A2="-110.0000" A3="90.0000" A4="-42.9864" A5="-30.6207" A6="119.0170" />
+        <Kuka_MovOpt SPD="400.0" ACC="200.0" TIME="0.0" />
+        <Gantry_ExternalAxis E1="16703.9200" E2="7329.4780" E3="4754.2420" />
+        <ROTI_ExternalAxis E4="-180.0000" E5="0.0000" SPD="100.0" ACC="50.0" />
+        <Weaving_ExternalAxis ONOFF="0.0000" ANGLE_MIN="0.0" ANGLE_MAX="0.0" ANGLESPD="0.0" />
+      </PosCmd>
+      <IO_Status MODE="0" PRE_AFTER_FLOW_TIME="0" />
+      <Flags FLAG1="0" FLAG2="0" />
+      <Coordinate SELECT="1" />
+    </Ext>
+  </Pose>
+  <Pose ID="4">
+    <Ext>
+      <CorrectionType Type="1" />
+      <PosCmd>
+        <Kuka_Cartesian X="10.6461" Y="20.7660" Z="-1.4782" A="21.00" B="198.94" C="136.33" S="0" T="0" />
+        <Kuka_AxisSpecific A1="-79.1966" A2="-110.0000" A3="90.0000" A4="-42.9864" A5="-30.6207" A6="119.0170" />
+        <Kuka_MovOpt SPD="400.0" ACC="200.0" TIME="0.0" />
+        <Gantry_ExternalAxis E1="15780.2800" E2="7032.8810" E3="5181.9480" />
+        <ROTI_ExternalAxis E4="-180.0000" E5="0.0000" SPD="100.0" ACC="50.0" />
+        <Weaving_ExternalAxis ONOFF="0.0000" ANGLE_MIN="0.0" ANGLE_MAX="0.0" ANGLESPD="0.0" />
+      </PosCmd>
+      <IO_Status MODE="0" PRE_AFTER_FLOW_TIME="0" />
+      <Flags FLAG1="0" FLAG2="0" />
+      <Coordinate SELECT="1" />
+    </Ext>
+  </Pose>
+  <Pose ID="5">
+    <Ext>
+      <CorrectionType Type="1" />
+      <PosCmd>
+        <Kuka_Cartesian X="10.6461" Y="20.7660" Z="-1.4782" A="21.00" B="198.94" C="136.33" S="0" T="0" />
+        <Kuka_AxisSpecific A1="-79.1966" A2="-110.0000" A3="90.0000" A4="-42.9864" A5="-30.6207" A6="119.0170" />
+        <Kuka_MovOpt SPD="400.0" ACC="200.0" TIME="0.0" />
+        <Gantry_ExternalAxis E1="8279.5250" E2="7187.3800" E3="5186.9290" />
+        <ROTI_ExternalAxis E4="-180.0000" E5="0.0000" SPD="100.0" ACC="50.0" />
+        <Weaving_ExternalAxis ONOFF="0.0000" ANGLE_MIN="0.0" ANGLE_MAX="0.0" ANGLESPD="0.0" />
+      </PosCmd>
+      <IO_Status MODE="0" PRE_AFTER_FLOW_TIME="0" />
+      <Flags FLAG1="0" FLAG2="0" />
+      <Coordinate SELECT="1" />
+    </Ext>
+  </Pose>
+  <Pose ID="6">
+    <Ext>
+      <CorrectionType Type="1" />
+      <PosCmd>
+        <Kuka_Cartesian X="10.6461" Y="20.7660" Z="-1.4782" A="21.00" B="198.94" C="136.33" S="0" T="0" />
+        <Kuka_AxisSpecific A1="-79.1966" A2="-110.0000" A3="90.0000" A4="-42.9864" A5="-30.6207" A6="119.0170" />
+        <Kuka_MovOpt SPD="400.0" ACC="200.0" TIME="0.0" />
+        <Gantry_ExternalAxis E1="8275.7770" E2="7245.6960" E3="5237.1330" />
+        <ROTI_ExternalAxis E4="-180.0000" E5="0.0000" SPD="100.0" ACC="50.0" />
+        <Weaving_ExternalAxis ONOFF="0.0000" ANGLE_MIN="0.0" ANGLE_MAX="0.0" ANGLESPD="0.0" />
+      </PosCmd>
+      <IO_Status MODE="0" PRE_AFTER_FLOW_TIME="0" />
+      <Flags FLAG1="0" FLAG2="0" />
+      <Coordinate SELECT="1" />
+    </Ext>
+  </Pose>
+  <Pose ID="7">
+    <Ext>
+      <CorrectionType Type="1" />
+      <PosCmd>
+        <Kuka_Cartesian X="10.6461" Y="20.7660" Z="-1.4782" A="21.00" B="198.94" C="136.33" S="0" T="0" />
+        <Kuka_AxisSpecific A1="-79.1966" A2="-110.0000" A3="90.0000" A4="-42.9864" A5="-30.6207" A6="119.0170" />
+        <Kuka_MovOpt SPD="400.0" ACC="200.0" TIME="0.0" />
+        <Gantry_ExternalAxis E1="15776.3500" E2="7091.1970" E3="5241.6950" />
+        <ROTI_ExternalAxis E4="-180.0000" E5="0.0000" SPD="100.0" ACC="50.0" />
+        <Weaving_ExternalAxis ONOFF="0.0000" ANGLE_MIN="0.0" ANGLE_MAX="0.0" ANGLESPD="0.0" />
+      </PosCmd>
+      <IO_Status MODE="0" PRE_AFTER_FLOW_TIME="0" />
+      <Flags FLAG1="0" FLAG2="0" />
+      <Coordinate SELECT="1" />
+    </Ext>
+  </Pose>
+  <Pose ID="8">
+    <Ext>
+      <CorrectionType Type="1" />
+      <PosCmd>
+        <Kuka_Cartesian X="10.6461" Y="20.7660" Z="-1.4782" A="21.00" B="198.94" C="136.33" S="0" T="0" />
+        <Kuka_AxisSpecific A1="-79.1966" A2="-110.0000" A3="90.0000" A4="-42.9864" A5="-30.6207" A6="119.0170" />
+        <Kuka_MovOpt SPD="400.0" ACC="200.0" TIME="0.0" />
+        <Gantry_ExternalAxis E1="15780.2800" E2="7149.5120" E3="5291.5060" />
+        <ROTI_ExternalAxis E4="-180.0000" E5="0.0000" SPD="100.0" ACC="50.0" />
+        <Weaving_ExternalAxis ONOFF="0.0000" ANGLE_MIN="0.0" ANGLE_MAX="0.0" ANGLESPD="0.0" />
+      </PosCmd>
+      <IO_Status MODE="0" PRE_AFTER_FLOW_TIME="0" />
+      <Flags FLAG1="0" FLAG2="0" />
+      <Coordinate SELECT="1" />
+    </Ext>
+  </Pose>
+  <Pose ID="9">
+    <Ext>
+      <CorrectionType Type="1" />
+      <PosCmd>
+        <Kuka_Cartesian X="10.6461" Y="20.7660" Z="-1.4782" A="21.00" B="198.94" C="136.33" S="0" T="0" />
+        <Kuka_AxisSpecific A1="-79.1966" A2="-110.0000" A3="90.0000" A4="-42.9864" A5="-30.6207" A6="119.0170" />
+        <Kuka_MovOpt SPD="400.0" ACC="200.0" TIME="0.0" />
+        <Gantry_ExternalAxis E1="8279.1030" E2="7304.0110" E3="5296.4600" />
+        <ROTI_ExternalAxis E4="-180.0000" E5="0.0000" SPD="100.0" ACC="50.0" />
+        <Weaving_ExternalAxis ONOFF="0.0000" ANGLE_MIN="0.0" ANGLE_MAX="0.0" ANGLESPD="0.0" />
+      </PosCmd>
+      <IO_Status MODE="0" PRE_AFTER_FLOW_TIME="0" />
+      <Flags FLAG1="0" FLAG2="0" />
+      <Coordinate SELECT="1" />
+    </Ext>
+  </Pose>
+  <Pose ID="10">
+    <Ext>
+      <CorrectionType Type="1" />
+      <PosCmd>
+        <Kuka_Cartesian X="10.6461" Y="20.7660" Z="-1.4782" A="21.00" B="198.94" C="136.33" S="0" T="0" />
+        <Kuka_AxisSpecific A1="-79.1966" A2="-110.0000" A3="90.0000" A4="-42.9864" A5="-30.6207" A6="119.0170" />
+        <Kuka_MovOpt SPD="400.0" ACC="200.0" TIME="0.0" />
+        <Gantry_ExternalAxis E1="8275.7770" E2="7362.3270" E3="5346.4770" />
+        <ROTI_ExternalAxis E4="-180.0000" E5="0.0000" SPD="100.0" ACC="50.0" />
+        <Weaving_ExternalAxis ONOFF="0.0000" ANGLE_MIN="0.0" ANGLE_MAX="0.0" ANGLESPD="0.0" />
+      </PosCmd>
+      <IO_Status MODE="0" PRE_AFTER_FLOW_TIME="0" />
+      <Flags FLAG1="0" FLAG2="0" />
+      <Coordinate SELECT="1" />
+    </Ext>
+  </Pose>
+  <Pose ID="11">
+    <Ext>
+      <CorrectionType Type="1" />
+      <PosCmd>
+        <Kuka_Cartesian X="10.6461" Y="20.7660" Z="-1.4782" A="21.00" B="198.94" C="136.33" S="0" T="0" />
+        <Kuka_AxisSpecific A1="-79.1966" A2="-110.0000" A3="90.0000" A4="-42.9864" A5="-30.6207" A6="119.0170" />
+        <Kuka_MovOpt SPD="400.0" ACC="200.0" TIME="0.0" />
+        <Gantry_ExternalAxis E1="15775.6800" E2="7207.8270" E3="5351.2270" />
+        <ROTI_ExternalAxis E4="-180.0000" E5="0.0000" SPD="100.0" ACC="50.0" />
+        <Weaving_ExternalAxis ONOFF="0.0000" ANGLE_MIN="0.0" ANGLE_MAX="0.0" ANGLESPD="0.0" />
+      </PosCmd>
+      <IO_Status MODE="0" PRE_AFTER_FLOW_TIME="0" />
+      <Flags FLAG1="0" FLAG2="0" />
+      <Coordinate SELECT="1" />
+    </Ext>
+  </Pose>
+  <Pose ID="12">
+    <Ext>
+      <CorrectionType Type="1" />
+      <PosCmd>
+        <Kuka_Cartesian X="10.6461" Y="20.7660" Z="-1.4782" A="21.00" B="198.94" C="136.33" S="0" T="0" />
+        <Kuka_AxisSpecific A1="-79.1966" A2="-110.0000" A3="90.0000" A4="-42.9864" A5="-30.6207" A6="119.0170" />
+        <Kuka_MovOpt SPD="400.0" ACC="200.0" TIME="0.0" />
+        <Gantry_ExternalAxis E1="15780.2700" E2="7239.0660" E3="5375.7440" />
+        <ROTI_ExternalAxis E4="-180.0000" E5="0.0000" SPD="100.0" ACC="50.0" />
+        <Weaving_ExternalAxis ONOFF="0.0000" ANGLE_MIN="0.0" ANGLE_MAX="0.0" ANGLESPD="0.0" />
+      </PosCmd>
+      <IO_Status MODE="0" PRE_AFTER_FLOW_TIME="0" />
+      <Flags FLAG1="0" FLAG2="0" />
+      <Coordinate SELECT="1" />
+    </Ext>
+  </Pose>
+  <Pose ID="13">
+    <Ext>
+      <CorrectionType Type="1" />
+      <PosCmd>
+        <Kuka_Cartesian X="10.6461" Y="20.7660" Z="-1.4782" A="21.00" B="198.94" C="136.33" S="0" T="0" />
+        <Kuka_AxisSpecific A1="-79.1966" A2="-110.0000" A3="90.0000" A4="-42.9864" A5="-30.6207" A6="119.0170" />
+        <Kuka_MovOpt SPD="400.0" ACC="200.0" TIME="0.0" />
+        <Gantry_ExternalAxis E1="8279.7710" E2="7393.5650" E3="5380.5630" />
+        <ROTI_ExternalAxis E4="-180.0000" E5="0.0000" SPD="100.0" ACC="50.0" />
+        <Weaving_ExternalAxis ONOFF="0.0000" ANGLE_MIN="0.0" ANGLE_MAX="0.0" ANGLESPD="0.0" />
+      </PosCmd>
+      <IO_Status MODE="0" PRE_AFTER_FLOW_TIME="0" />
+      <Flags FLAG1="0" FLAG2="0" />
+      <Coordinate SELECT="1" />
+    </Ext>
+  </Pose>
+  <Pose ID="14">
+    <Ext>
+      <CorrectionType Type="1" />
+      <PosCmd>
+        <Kuka_Cartesian X="10.6461" Y="20.7660" Z="-1.4782" A="21.00" B="198.94" C="136.33" S="0" T="0" />
+        <Kuka_AxisSpecific A1="-79.1966" A2="-110.0000" A3="90.0000" A4="-42.9864" A5="-30.6207" A6="119.0170" />
+        <Kuka_MovOpt SPD="400.0" ACC="200.0" TIME="0.0" />
+        <Gantry_ExternalAxis E1="8079.6080" E2="7397.6810" E3="5380.5630" />
+        <ROTI_ExternalAxis E4="-180.0000" E5="0.0000" SPD="100.0" ACC="50.0" />
+        <Weaving_ExternalAxis ONOFF="0.0000" ANGLE_MIN="0.0" ANGLE_MAX="0.0" ANGLESPD="0.0" />
+      </PosCmd>
+      <IO_Status MODE="0" PRE_AFTER_FLOW_TIME="0" />
+      <Flags FLAG1="0" FLAG2="0" />
+      <Coordinate SELECT="1" />
+    </Ext>
+  </Pose>
+</Motion>

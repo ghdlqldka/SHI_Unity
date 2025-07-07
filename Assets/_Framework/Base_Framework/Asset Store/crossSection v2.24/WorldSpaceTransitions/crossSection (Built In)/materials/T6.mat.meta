@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1609bc1fa3fef924ca56308b64f46917
+timeCreated: 1452678113
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93478
+  packageName: crossSection
+  packageVersion: 2.24
+  assetPath: Assets/WorldSpaceTransitions/crossSection (Built In)/materials/T6.mat
+  uploadId: 674954

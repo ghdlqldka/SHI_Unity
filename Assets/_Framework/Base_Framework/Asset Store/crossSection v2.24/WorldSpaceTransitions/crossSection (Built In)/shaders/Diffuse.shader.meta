@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6543cd53fe423404387303816c22f669
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93478
+  packageName: crossSection
+  packageVersion: 2.24
+  assetPath: Assets/WorldSpaceTransitions/crossSection (Built In)/shaders/Diffuse.shader
+  uploadId: 674954

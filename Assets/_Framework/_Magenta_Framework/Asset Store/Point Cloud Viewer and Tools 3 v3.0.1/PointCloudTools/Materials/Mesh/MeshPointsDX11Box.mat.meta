@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6c5ff4c437e4f1f45a73ceb6329efe2d
+timeCreated: 1494667719
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/Materials/Mesh/MeshPointsDX11Box.mat
+  uploadId: 755443

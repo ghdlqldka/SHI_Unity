@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 458903b610d2ec74cbfa941705bc6c5a
+timeCreated: 1512942019
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 106482
+  packageName: IK Constructor
+  packageVersion: 1.0
+  assetPath: Assets/IKConstructor/Examples/Materials/3DText Wheel.mat
+  uploadId: 218241

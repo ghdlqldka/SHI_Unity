@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 0c6e6ae7bff0b1c4e88fb30de2614676
+timeCreated: 1527508408
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 125537
+  packageName: Runtime Transform Gizmos
+  packageVersion: 2.0.2
+  assetPath: Assets/Runtime Transform Gizmos/Scripts/Gizmos/Core Data Types/GizmoTransformSnapshot.cs
+  uploadId: 733781

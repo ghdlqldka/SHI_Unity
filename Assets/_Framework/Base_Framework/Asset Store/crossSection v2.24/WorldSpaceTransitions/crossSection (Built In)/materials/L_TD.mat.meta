@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8027883ad4a42714db62f9166a284663
+timeCreated: 1452945667
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93478
+  packageName: crossSection
+  packageVersion: 2.24
+  assetPath: Assets/WorldSpaceTransitions/crossSection (Built In)/materials/L_TD.mat
+  uploadId: 674954

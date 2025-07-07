@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: fd8d78ac80e0a744c8cb6131fffbe2f9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93478
+  packageName: crossSection
+  packageVersion: 2.24
+  assetPath: Assets/WorldSpaceTransitions/crossSection/MathGeoLib.Exports.v0.1/MathGeoLib/OrientedBoundingBox.cs
+  uploadId: 674954

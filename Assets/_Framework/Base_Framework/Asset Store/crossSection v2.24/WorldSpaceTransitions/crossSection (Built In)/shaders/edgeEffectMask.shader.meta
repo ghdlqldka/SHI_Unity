@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 280d99bf21f99f240b88d76529df5f37
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93478
+  packageName: crossSection
+  packageVersion: 2.24
+  assetPath: Assets/WorldSpaceTransitions/crossSection (Built In)/shaders/edgeEffectMask.shader
+  uploadId: 674954

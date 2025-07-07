@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cf46847494e282c48b52d259ef1cb314
+timeCreated: 1487175938
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93478
+  packageName: crossSection
+  packageVersion: 2.24
+  assetPath: Assets/WorldSpaceTransitions/crossSection (Built In)/Prefabs/rectGizmo.prefab
+  uploadId: 674954

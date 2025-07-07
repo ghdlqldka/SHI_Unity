@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 6ee095c62b30ed043a23bb29ed712a52
+timeCreated: 1497961688
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 125537
+  packageName: Runtime Transform Gizmos
+  packageVersion: 2.0.2
+  assetPath: Assets/Runtime Transform Gizmos/Scripts/Runtime Package Common/Objects/GameObjectType.cs
+  uploadId: 733781

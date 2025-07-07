@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 83a8c97990217954f89d9f49a766b9f4
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93478
+  packageName: crossSection
+  packageVersion: 2.24
+  assetPath: Assets/WorldSpaceTransitions/crossSection (Built In)/shaders/CapPrepare.shader
+  uploadId: 674954

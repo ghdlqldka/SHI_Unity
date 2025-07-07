@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2db1cdbd4a9e45e40b676ee77b520461
+timeCreated: 1458481401
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93478
+  packageName: crossSection
+  packageVersion: 2.24
+  assetPath: Assets/WorldSpaceTransitions/crossSection (Built In)/shaders/CGIncludes/section_clipping_CS.cginc
+  uploadId: 674954

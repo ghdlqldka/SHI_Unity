@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bba9cdcaf6720bc40940d84e84f373ac
+timeCreated: 1485452727
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 125537
+  packageName: Runtime Transform Gizmos
+  packageVersion: 2.0.2
+  assetPath: Assets/Runtime Transform Gizmos/Docs/Readme.txt
+  uploadId: 733781

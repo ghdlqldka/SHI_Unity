@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 37e08eda82bedb3449be87ddb1aee2ec
+timeCreated: 1435965652
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/Demos/PushVertices/Scenes/scene_MeshPointPush-legacy.unity
+  uploadId: 755443

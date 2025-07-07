@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 66a382da46fc40d4a825abbe0df03d5b
+timeCreated: 1518693444
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/Materials/Mesh/PointCloudMeshColorSize-PackedV3.mat
+  uploadId: 755443

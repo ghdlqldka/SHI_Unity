@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 8d753ca7291f8ce46a5e1ebbb9bc3cad
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/Demos/PointCloudViewer/Scripts/CustomTilesViewerV3.cs
+  uploadId: 755443

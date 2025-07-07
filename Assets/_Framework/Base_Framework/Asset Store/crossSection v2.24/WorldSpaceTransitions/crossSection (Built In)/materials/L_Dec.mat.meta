@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b0628bb18d69584449847d6a86f4b65e
+timeCreated: 1452944219
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93478
+  packageName: crossSection
+  packageVersion: 2.24
+  assetPath: Assets/WorldSpaceTransitions/crossSection (Built In)/materials/L_Dec.mat
+  uploadId: 674954

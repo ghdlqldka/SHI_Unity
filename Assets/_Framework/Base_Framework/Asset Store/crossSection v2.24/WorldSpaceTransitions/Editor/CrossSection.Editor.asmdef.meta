@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ef21d4e754c806840b50efe409863121
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93478
+  packageName: crossSection
+  packageVersion: 2.24
+  assetPath: Assets/WorldSpaceTransitions/Editor/CrossSection.Editor.asmdef
+  uploadId: 674954

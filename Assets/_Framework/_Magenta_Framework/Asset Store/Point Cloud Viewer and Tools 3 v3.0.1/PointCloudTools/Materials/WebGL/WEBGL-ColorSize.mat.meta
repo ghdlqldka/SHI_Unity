@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fbd5ec392ebb65b48887d1db6d51663f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/Materials/WebGL/WEBGL-ColorSize.mat
+  uploadId: 755443

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dd4e4100256f99146b31c4db46856f9f
+timeCreated: 1494667719
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/Materials/Mesh/MeshPointsDX11TextureMask.mat
+  uploadId: 755443

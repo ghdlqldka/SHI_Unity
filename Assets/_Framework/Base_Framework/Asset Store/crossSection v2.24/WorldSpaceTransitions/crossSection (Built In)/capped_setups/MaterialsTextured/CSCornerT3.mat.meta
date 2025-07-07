@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a8868d130848fbd47950ae64123b651e
+timeCreated: 1486510427
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93478
+  packageName: crossSection
+  packageVersion: 2.24
+  assetPath: Assets/WorldSpaceTransitions/crossSection (Built In)/capped_setups/MaterialsTextured/CSCornerT3.mat
+  uploadId: 674954

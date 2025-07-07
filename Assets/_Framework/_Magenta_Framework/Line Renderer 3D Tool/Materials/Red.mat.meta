@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1a7b4ee6f0af602499ac47dcac8a4e6f
+timeCreated: 1480727763
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 67819
+  packageName: Bio IK
+  packageVersion: 2.0d
+  assetPath: Assets/BioIK/Demo/Materials/Red.mat
+  uploadId: 199125

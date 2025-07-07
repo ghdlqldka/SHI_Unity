@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 862d4d8e85c9c974a97beecb3a24995e
+timeCreated: 1437108797
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93478
+  packageName: crossSection
+  packageVersion: 2.24
+  assetPath: Assets/WorldSpaceTransitions/crossSection (Built In)/scenes/single_plane.unity
+  uploadId: 674954

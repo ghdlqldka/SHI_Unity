@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: df9f4f38abf41ba47b90bb5bb6ada166
+timeCreated: 1435446132
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/Materials/Mesh/PointCloudSingleColorMeshPointSize.mat
+  uploadId: 755443

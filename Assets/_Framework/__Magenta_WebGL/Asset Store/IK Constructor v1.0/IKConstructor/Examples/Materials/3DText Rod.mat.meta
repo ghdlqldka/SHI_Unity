@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 13f8b395b169afe4bbc5fba17ce537b6
+timeCreated: 1512942019
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 106482
+  packageName: IK Constructor
+  packageVersion: 1.0
+  assetPath: Assets/IKConstructor/Examples/Materials/3DText Rod.mat
+  uploadId: 218241

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ab94ed22004d148478aecf6f666718be
+timeCreated: 1484934496
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93478
+  packageName: crossSection
+  packageVersion: 2.24
+  assetPath: Assets/WorldSpaceTransitions/crossSection (Built In)/shaderOthers/SurfaceShaderMetalBumped.shader
+  uploadId: 674954

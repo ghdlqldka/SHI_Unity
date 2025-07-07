@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8defd8f2b033e51499fc629d2cf0ea33
+timeCreated: 1452667171
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93478
+  packageName: crossSection
+  packageVersion: 2.24
+  assetPath: Assets/WorldSpaceTransitions/crossSection (Built In)/scenes/various_materials.unity
+  uploadId: 674954

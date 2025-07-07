@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b4d252b3e09db14478167f785e62116b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93478
+  packageName: crossSection
+  packageVersion: 2.24
+  assetPath: Assets/WorldSpaceTransitions/crossSection/DemoScenes.asset
+  uploadId: 674954

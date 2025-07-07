@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2c5e421b18270d841bbacc58923bcf35
+timeCreated: 1494399736
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/Shaders/DX11/Extras/PointCloudColorSizeDX11v2-maxdist.shader
+  uploadId: 755443

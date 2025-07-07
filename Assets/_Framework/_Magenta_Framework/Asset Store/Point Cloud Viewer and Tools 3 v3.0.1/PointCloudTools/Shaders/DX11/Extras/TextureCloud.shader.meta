@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f72d8bd2e2a85df418837549f35d2367
+timeCreated: 1494399736
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/Shaders/DX11/Extras/TextureCloud.shader
+  uploadId: 755443

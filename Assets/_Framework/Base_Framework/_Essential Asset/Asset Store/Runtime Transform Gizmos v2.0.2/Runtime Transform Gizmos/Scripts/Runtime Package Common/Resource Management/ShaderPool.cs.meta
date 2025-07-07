@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: d075b7ea8d1c7cb499cf97e8fd1a118b
+timeCreated: 1485859510
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 125537
+  packageName: Runtime Transform Gizmos
+  packageVersion: 2.0.2
+  assetPath: Assets/Runtime Transform Gizmos/Scripts/Runtime Package Common/Resource
+    Management/ShaderPool.cs
+  uploadId: 733781

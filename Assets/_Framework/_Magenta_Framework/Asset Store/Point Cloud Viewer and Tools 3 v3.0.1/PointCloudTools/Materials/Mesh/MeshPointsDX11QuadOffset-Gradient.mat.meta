@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f1078b0895346c14d8727b8c91178ca8
+timeCreated: 1494667719
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/Materials/Mesh/MeshPointsDX11QuadOffset-Gradient.mat
+  uploadId: 755443

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6ace4fe513b685b42bfabb86871ba56a
+timeCreated: 1494667719
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/Materials/Mesh/MeshPointsDX11BoxDirectionalLight.mat
+  uploadId: 755443

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 98b967a1bdf9e0f4ab0c9e8eac32bf19
+timeCreated: 1520204302
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 125537
+  packageName: Runtime Transform Gizmos
+  packageVersion: 2.0.2
+  assetPath: Assets/Runtime Transform Gizmos/Scripts/Runtime Package Common/Shapes/CylTorusShape3D.cs
+  uploadId: 733781

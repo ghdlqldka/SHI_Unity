@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: b0baade4495c04b4bae00febcf106a6e
+timeCreated: 1506936051
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/Demos/PointCloudViewer/Scripts/RuntimeLASConvert.cs
+  uploadId: 755443

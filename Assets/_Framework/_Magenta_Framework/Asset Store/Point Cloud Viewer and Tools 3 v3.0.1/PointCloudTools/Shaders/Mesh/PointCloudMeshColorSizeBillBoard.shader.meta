@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 292e9bb89b7224a43b8612ab3a747cd0
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 310385
+  packageName: Point Cloud Viewer and Tools 3
+  packageVersion: 3.0.1
+  assetPath: Assets/PointCloudTools/Shaders/Mesh/PointCloudMeshColorSizeBillBoard.shader
+  uploadId: 755443
